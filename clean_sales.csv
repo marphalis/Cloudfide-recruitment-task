@@ -1,0 +1,1501 @@
+Order_ID,Region,Product,Quantity,Unit_Price,Discount,Order_Date
+So-10001,South,Office Chair,32,249.0,398.4,2026-08-07
+So-10002,East,Monitor Stand,1,59.0,0.0,2026-02-19
+So-10003,South,Headset,14,119.0,0.0,2026-03-25
+So-10004,East,Mouse,11,29.5,0.0,2026-07-25
+So-10005,South,Printer Paper,6,21.0,12.6,2026-03-24
+So-10006,Central,Headset,9,119.0,107.1,2026-09-03
+So-10007,South,Headset,9,119.0,0.0,2026-04-08
+So-10008,East,Desk Lamp,4,39.9,7.98,2026-02-01
+So-10009,West,Mouse,16,29.5,0.0,2026-03-20
+So-10010,Central,Headset,26,119.0,0.0,2026-09-10
+So-10011,North,Headset,33,119.0,196.35,2026-01-02
+So-10012,North,Keyboard,5,89.0,44.5,2026-03-09
+So-10013,North,Printer Paper,8,21.0,0.0,2026-01-05
+So-10014,East,Headset,27,119.0,0.0,2026-08-08
+So-10015,South,Mouse,18,29.5,0.0,2026-04-17
+So-10016,Central,Mouse,29,29.5,85.55,2026-01-21
+So-10017,North,Notebook Pack,19,12.5,11.88,2026-07-12
+So-10018,West,Printer Paper,6,21.0,12.6,2026-08-05
+So-10019,South,Headset,4,119.0,0.0,2026-06-02
+So-10020,South,Office Chair,28,249.0,0.0,2026-02-06
+So-10021,Central,Notebook Pack,25,12.5,0.0,2026-03-27
+So-10022,West,Printer Paper,36,21.0,0.0,2026-07-10
+So-10023,West,Keyboard,38,89.0,169.1,2026-05-09
+So-10024,South,Headset,38,119.0,0.0,2026-09-19
+So-10025,West,Headset,2,119.0,0.0,2026-06-14
+So-10026,Central,Headset,40,119.0,0.0,2026-09-12
+So-10027,West,Mouse,7,29.5,0.0,2026-09-05
+So-10028,East,Keyboard,3,89.0,0.0,2026-03-08
+So-10029,South,Headset,26,119.0,309.4,2026-05-04
+So-10030,East,Office Chair,19,249.0,473.1,2026-06-02
+So-10031,West,Office Chair,22,249.0,273.9,2026-03-18
+So-10032,South,Notebook Pack,32,12.5,20.0,2026-05-29
+So-10033,East,Notebook Pack,39,12.5,0.0,2026-08-17
+So-10034,Central,Monitor Stand,1,59.0,0.0,2026-03-13
+So-10035,South,Desk Lamp,27,39.9,53.87,2026-09-06
+So-10036,South,Monitor Stand,12,59.0,0.0,2026-09-10
+So-10037,North,Monitor Stand,29,59.0,0.0,2026-05-15
+So-10038,West,Headset,31,119.0,0.0,2026-01-16
+So-10039,East,Office Chair,12,249.0,298.8,2026-04-23
+So-10040,North,Monitor Stand,32,59.0,0.0,2026-07-24
+So-10041,West,Printer Paper,37,21.0,0.0,2026-05-01
+So-10042,Central,Printer Paper,25,21.0,0.0,2026-07-16
+So-10043,Central,Printer Paper,37,21.0,0.0,2026-08-03
+So-10044,North,Office Chair,16,249.0,0.0,2026-06-13
+So-10045,East,Monitor Stand,9,59.0,0.0,2026-08-18
+So-10046,East,Monitor Stand,20,59.0,0.0,2026-07-27
+So-10047,Central,Office Chair,15,249.0,0.0,2026-04-27
+So-10048,South,Notebook Pack,9,12.5,0.0,2026-03-07
+So-10049,South,Office Chair,7,249.0,0.0,2026-05-06
+So-10050,Central,Notebook Pack,3,12.5,0.0,2026-01-20
+So-10051,East,Office Chair,10,249.0,0.0,2026-06-15
+So-10052,North,Printer Paper,22,21.0,0.0,2026-05-12
+So-10053,East,Monitor Stand,4,59.0,11.8,2026-04-19
+So-10054,East,Keyboard,13,89.0,57.85,2026-01-31
+So-10055,East,Headset,38,119.0,0.0,2026-08-16
+So-10056,North,Monitor Stand,36,59.0,106.2,2026-06-18
+So-10057,West,Printer Paper,2,21.0,4.2,2026-06-10
+So-10058,West,Notebook Pack,29,12.5,0.0,2026-03-08
+So-10059,East,Headset,4,119.0,0.0,2026-07-23
+So-10060,Central,Monitor Stand,34,59.0,200.6,2026-08-15
+So-10061,West,Mouse,1,29.5,0.0,2026-06-05
+So-10062,South,Printer Paper,14,21.0,0.0,2026-04-23
+So-10063,East,Desk Lamp,25,39.9,99.75,2026-09-02
+So-10064,East,Office Chair,16,249.0,0.0,2026-07-23
+So-10065,Central,Mouse,9,29.5,26.55,2026-07-18
+So-10066,Central,Monitor Stand,24,59.0,0.0,2026-08-09
+So-10067,East,Desk Lamp,7,39.9,0.0,2026-09-13
+So-10068,East,Desk Lamp,12,39.9,23.94,2026-03-13
+So-10069,East,Headset,5,119.0,0.0,2026-02-26
+So-10070,East,Headset,28,119.0,333.2,2026-06-23
+So-10071,West,Office Chair,38,249.0,0.0,2026-07-17
+So-10072,South,Monitor Stand,26,59.0,153.4,2026-09-25
+So-10073,South,Mouse,18,29.5,0.0,2026-07-19
+So-10074,Central,Desk Lamp,16,39.9,0.0,2026-01-05
+So-10075,West,Office Chair,14,249.0,0.0,2026-08-21
+So-10076,West,Desk Lamp,38,39.9,151.62,2026-03-07
+So-10077,Central,Desk Lamp,11,39.9,0.0,2026-05-02
+So-10078,Central,Printer Paper,24,21.0,0.0,2026-04-01
+So-10079,East,Notebook Pack,18,12.5,0.0,2026-06-05
+So-10080,North,Monitor Stand,32,59.0,188.8,2026-04-06
+So-10081,North,Mouse,22,29.5,64.9,2026-04-15
+So-10082,East,Headset,30,119.0,0.0,2026-09-28
+So-10083,East,Mouse,34,29.5,100.3,2026-02-28
+So-10084,West,Mouse,1,29.5,0.0,2026-01-20
+So-10085,South,Mouse,1,29.5,1.48,2026-05-21
+So-10086,Central,Desk Lamp,33,39.9,0.0,2026-07-12
+So-10087,North,Headset,26,119.0,154.7,2026-02-15
+So-10088,North,Desk Lamp,32,39.9,0.0,2026-09-14
+So-10089,East,Notebook Pack,5,12.5,6.25,2026-09-01
+So-10090,East,Printer Paper,7,21.0,0.0,2026-08-16
+So-10091,North,Desk Lamp,40,39.9,0.0,2026-04-21
+So-10092,East,Mouse,6,29.5,17.7,2026-04-10
+So-10093,East,Notebook Pack,28,12.5,0.0,2026-08-13
+So-10094,East,Office Chair,31,249.0,0.0,2026-06-17
+So-10095,East,Desk Lamp,22,39.9,0.0,2026-08-02
+So-10096,South,Headset,32,119.0,0.0,2026-06-10
+So-10097,West,Mouse,35,29.5,0.0,2026-07-23
+So-10098,Central,Monitor Stand,39,59.0,115.05,2026-02-22
+So-10099,North,Office Chair,29,249.0,0.0,2026-03-31
+So-10100,South,Desk Lamp,28,39.9,0.0,2026-04-23
+So-10101,North,Keyboard,27,89.0,240.3,2026-04-06
+So-10102,South,Monitor Stand,5,59.0,0.0,2026-03-12
+So-10103,Central,Office Chair,8,249.0,0.0,2026-08-30
+So-10104,North,Keyboard,2,89.0,8.9,2026-08-04
+So-10105,North,Keyboard,34,89.0,0.0,2026-07-11
+So-10106,North,Headset,2,119.0,0.0,2026-09-13
+So-10107,South,Office Chair,25,249.0,311.25,2026-06-30
+So-10108,North,Desk Lamp,10,39.9,0.0,2026-05-19
+So-10109,East,Mouse,17,29.5,50.15,2026-08-20
+So-10110,South,Notebook Pack,24,12.5,0.0,2026-06-10
+So-10111,West,Keyboard,4,89.0,35.6,2026-07-15
+So-10112,West,Printer Paper,31,21.0,32.55,2026-04-16
+So-10113,Central,Notebook Pack,32,12.5,0.0,2026-07-11
+So-10114,East,Keyboard,5,89.0,44.5,2026-07-13
+So-10115,North,Mouse,13,29.5,0.0,2026-01-08
+So-10116,North,Office Chair,20,249.0,0.0,2026-07-20
+So-10117,North,Keyboard,19,89.0,0.0,2026-06-08
+So-10118,North,Monitor Stand,4,59.0,0.0,2026-04-18
+So-10119,Central,Printer Paper,9,21.0,0.0,2026-03-04
+So-10120,East,Mouse,28,29.5,0.0,2026-04-29
+So-10121,North,Keyboard,9,89.0,40.05,2026-03-07
+So-10122,North,Headset,29,119.0,172.55,2026-04-20
+So-10123,South,Headset,30,119.0,0.0,2026-07-09
+So-10124,South,Desk Lamp,8,39.9,0.0,2026-02-23
+So-10125,South,Monitor Stand,23,59.0,0.0,2026-04-20
+So-10126,South,Office Chair,14,249.0,0.0,2026-07-30
+So-10127,South,Keyboard,26,89.0,0.0,2026-08-12
+So-10128,North,Mouse,40,29.5,59.0,2026-04-28
+So-10129,West,Desk Lamp,30,39.9,119.7,2026-03-18
+So-10130,Central,Keyboard,26,89.0,0.0,2026-03-24
+So-10131,North,Keyboard,4,89.0,35.6,2026-03-18
+So-10132,South,Headset,36,119.0,428.4,2026-04-01
+So-10133,Central,Desk Lamp,35,39.9,0.0,2026-02-27
+So-10134,North,Headset,7,119.0,41.65,2026-07-11
+So-10135,Central,Mouse,5,29.5,7.38,2026-06-19
+So-10136,North,Monitor Stand,12,59.0,0.0,2026-03-18
+So-10137,East,Monitor Stand,18,59.0,53.1,2026-01-10
+So-10138,North,Desk Lamp,4,39.9,0.0,2026-07-30
+So-10139,West,Keyboard,10,89.0,0.0,2026-08-12
+So-10140,North,Printer Paper,21,21.0,44.1,2026-03-21
+So-10141,North,Mouse,40,29.5,0.0,2026-08-04
+So-10142,South,Notebook Pack,3,12.5,1.88,2026-05-08
+So-10143,East,Desk Lamp,4,39.9,15.96,2026-07-04
+So-10144,South,Monitor Stand,13,59.0,0.0,2026-01-04
+So-10145,South,Headset,17,119.0,0.0,2026-03-11
+So-10146,East,Printer Paper,37,21.0,0.0,2026-04-08
+So-10147,North,Headset,32,119.0,380.8,2026-08-13
+So-10148,North,Printer Paper,27,21.0,0.0,2026-04-11
+So-10149,North,Printer Paper,14,21.0,0.0,2026-05-07
+So-10150,East,Keyboard,23,89.0,204.7,2026-01-25
+So-10151,North,Notebook Pack,9,12.5,0.0,2026-08-15
+So-10152,South,Notebook Pack,24,12.5,0.0,2026-02-19
+So-10153,Central,Desk Lamp,31,39.9,0.0,2026-07-23
+So-10154,East,Monitor Stand,22,59.0,0.0,2026-04-22
+So-10155,South,Office Chair,15,249.0,0.0,2026-01-25
+So-10156,West,Notebook Pack,21,12.5,0.0,2026-07-20
+So-10157,West,Desk Lamp,5,39.9,9.98,2026-04-29
+So-10158,Central,Keyboard,30,89.0,0.0,2026-08-05
+So-10159,West,Notebook Pack,4,12.5,0.0,2026-02-08
+So-10160,West,Desk Lamp,6,39.9,0.0,2026-05-03
+So-10161,Central,Mouse,30,29.5,0.0,2026-02-22
+So-10162,South,Office Chair,12,249.0,298.8,2026-05-18
+So-10163,South,Monitor Stand,25,59.0,0.0,2026-05-30
+So-10164,North,Office Chair,13,249.0,161.85,2026-01-27
+So-10165,East,Printer Paper,14,21.0,29.4,2026-07-24
+So-10166,North,Desk Lamp,31,39.9,0.0,2026-05-30
+So-10167,South,Printer Paper,12,21.0,0.0,2026-02-18
+So-10168,West,Printer Paper,30,21.0,0.0,2026-02-14
+So-10169,North,Printer Paper,39,21.0,0.0,2026-07-29
+So-10170,South,Keyboard,18,89.0,80.1,2026-09-16
+So-10171,Central,Keyboard,13,89.0,0.0,2026-09-02
+So-10172,East,Office Chair,12,249.0,0.0,2026-02-17
+So-10173,West,Monitor Stand,38,59.0,112.1,2026-07-07
+So-10174,South,Office Chair,9,249.0,0.0,2026-08-01
+So-10175,Central,Desk Lamp,14,39.9,0.0,2026-04-03
+So-10176,South,Monitor Stand,35,59.0,0.0,2026-01-09
+So-10177,West,Printer Paper,2,21.0,0.0,2026-03-07
+So-10178,North,Printer Paper,32,21.0,0.0,2026-01-27
+So-10179,East,Notebook Pack,10,12.5,12.5,2026-02-02
+So-10180,East,Printer Paper,10,21.0,0.0,2026-07-06
+So-10181,West,Printer Paper,5,21.0,0.0,2026-02-25
+So-10182,North,Monitor Stand,9,59.0,0.0,2026-08-01
+So-10183,South,Mouse,6,29.5,0.0,2026-05-04
+So-10184,North,Headset,8,119.0,47.6,2026-07-25
+So-10185,East,Mouse,10,29.5,14.75,2026-04-09
+So-10186,East,Mouse,40,29.5,0.0,2026-02-02
+So-10187,Central,Headset,33,119.0,0.0,2026-08-01
+So-10188,West,Printer Paper,37,21.0,38.85,2026-04-26
+So-10189,West,Monitor Stand,1,59.0,0.0,2026-02-25
+So-10190,South,Printer Paper,2,21.0,0.0,2026-01-10
+So-10191,East,Headset,7,119.0,83.3,2026-01-05
+So-10192,West,Headset,12,119.0,0.0,2026-04-01
+So-10193,Central,Keyboard,31,89.0,0.0,2026-09-20
+So-10194,West,Headset,39,119.0,0.0,2026-04-11
+So-10195,East,Keyboard,18,89.0,0.0,2026-09-06
+So-10196,Central,Desk Lamp,1,39.9,0.0,2026-04-19
+So-10197,West,Desk Lamp,24,39.9,0.0,2026-09-26
+So-10198,East,Headset,11,119.0,0.0,2026-05-31
+So-10199,North,Headset,12,119.0,71.4,2026-01-29
+So-10200,North,Notebook Pack,11,12.5,0.0,2026-04-05
+So-10201,West,Notebook Pack,4,12.5,0.0,2026-01-09
+So-10202,West,Mouse,9,29.5,0.0,2026-09-07
+So-10203,East,Printer Paper,30,21.0,31.5,2026-07-04
+So-10204,North,Printer Paper,34,21.0,0.0,2026-09-10
+So-10205,North,Headset,2,119.0,0.0,2026-04-06
+So-10206,North,Desk Lamp,25,39.9,0.0,2026-02-09
+So-10207,Central,Desk Lamp,17,39.9,33.91,2026-07-30
+So-10208,South,Desk Lamp,1,39.9,3.99,2026-02-06
+So-10209,West,Keyboard,40,89.0,0.0,2026-09-21
+So-10210,West,Monitor Stand,7,59.0,0.0,2026-01-21
+So-10211,East,Desk Lamp,5,39.9,19.95,2026-03-24
+So-10212,West,Office Chair,27,249.0,0.0,2026-07-18
+So-10213,Central,Mouse,32,29.5,0.0,2026-02-13
+So-10214,North,Monitor Stand,40,59.0,118.0,2026-07-29
+So-10215,East,Headset,36,119.0,0.0,2026-04-02
+So-10216,South,Printer Paper,32,21.0,67.2,2026-06-02
+So-10217,West,Notebook Pack,28,12.5,35.0,2026-04-12
+So-10218,South,Notebook Pack,26,12.5,0.0,2026-07-06
+So-10219,East,Headset,10,119.0,119.0,2026-04-14
+So-10220,South,Desk Lamp,11,39.9,0.0,2026-03-23
+So-10221,South,Notebook Pack,30,12.5,0.0,2026-07-12
+So-10222,East,Keyboard,24,89.0,0.0,2026-08-03
+So-10223,North,Notebook Pack,33,12.5,41.25,2026-07-30
+So-10224,West,Headset,38,119.0,226.1,2026-01-18
+So-10225,Central,Office Chair,27,249.0,672.3,2026-05-27
+So-10226,South,Mouse,3,29.5,0.0,2026-04-09
+So-10227,North,Keyboard,27,89.0,240.3,2026-02-18
+So-10228,North,Mouse,10,29.5,0.0,2026-03-28
+So-10229,Central,Notebook Pack,25,12.5,0.0,2026-03-24
+So-10230,West,Printer Paper,40,21.0,0.0,2026-03-10
+So-10231,Central,Monitor Stand,33,59.0,0.0,2026-01-21
+So-10232,East,Headset,23,119.0,0.0,2026-04-18
+So-10233,North,Keyboard,24,89.0,0.0,2026-06-16
+So-10234,West,Printer Paper,8,21.0,0.0,2026-01-14
+So-10235,East,Notebook Pack,37,12.5,23.12,2026-07-19
+So-10236,North,Printer Paper,27,21.0,0.0,2026-05-05
+So-10237,South,Keyboard,9,89.0,80.1,2026-04-10
+So-10238,North,Headset,22,119.0,130.9,2026-02-20
+So-10239,West,Monitor Stand,15,59.0,44.25,2026-09-28
+So-10240,East,Notebook Pack,1,12.5,0.0,2026-05-19
+So-10241,East,Headset,35,119.0,0.0,2026-09-17
+So-10242,North,Mouse,20,29.5,0.0,2026-06-09
+So-10243,West,Office Chair,11,249.0,0.0,2026-05-12
+So-10244,East,Office Chair,22,249.0,0.0,2026-05-25
+So-10245,Central,Notebook Pack,22,12.5,0.0,2026-02-14
+So-10246,West,Mouse,37,29.5,109.15,2026-06-24
+So-10247,East,Desk Lamp,5,39.9,0.0,2026-04-30
+So-10248,Central,Mouse,8,29.5,0.0,2026-01-04
+So-10249,North,Office Chair,39,249.0,971.1,2026-06-04
+So-10250,West,Monitor Stand,14,59.0,0.0,2026-07-08
+So-10251,North,Printer Paper,1762,21.0,0.0,2026-07-08
+So-10252,South,Printer Paper,37,21.0,0.0,2026-08-13
+So-10253,South,Headset,26,119.0,0.0,2026-08-27
+So-10254,East,Monitor Stand,38,59.0,112.1,2026-06-12
+So-10255,North,Monitor Stand,40,59.0,0.0,2026-05-05
+So-10256,South,Keyboard,38,89.0,0.0,2026-04-08
+So-10257,North,Keyboard,27,89.0,240.3,2026-08-12
+So-10258,South,Headset,16,119.0,190.4,2026-01-03
+So-10259,Central,Keyboard,22,89.0,195.8,2026-03-20
+So-10260,North,Monitor Stand,8,59.0,47.2,2026-05-31
+So-10261,West,Printer Paper,37,21.0,0.0,2026-04-12
+So-10262,Central,Desk Lamp,33,39.9,0.0,2026-09-24
+So-10263,East,Headset,34,119.0,202.3,2026-07-05
+So-10264,East,Office Chair,16,249.0,0.0,2026-02-09
+So-10265,West,Printer Paper,30,21.0,0.0,2026-07-19
+So-10266,Central,Notebook Pack,29,12.5,36.25,2026-02-17
+So-10267,East,Office Chair,21,249.0,0.0,2026-08-20
+So-10268,West,Printer Paper,14,21.0,0.0,2026-06-27
+So-10269,West,Notebook Pack,35,12.5,0.0,2026-05-31
+So-10270,North,Desk Lamp,25,39.9,0.0,2026-01-10
+So-10271,Central,Desk Lamp,7,39.9,13.97,2026-01-15
+So-10272,South,Keyboard,30,89.0,0.0,2026-09-26
+So-10273,North,Office Chair,16,249.0,398.4,2026-07-10
+So-10274,West,Printer Paper,5,21.0,10.5,2026-09-23
+So-10275,East,Mouse,9,29.5,0.0,2026-04-14
+So-10276,Central,Keyboard,25,89.0,0.0,2026-04-03
+So-10277,West,Headset,33,119.0,392.7,2026-04-28
+So-10278,North,Notebook Pack,26,12.5,0.0,2026-06-01
+So-10279,West,Headset,26,119.0,0.0,2026-06-04
+So-10280,North,Office Chair,14,249.0,0.0,2026-06-29
+So-10281,East,Keyboard,9,89.0,0.0,2026-01-22
+So-10282,North,Headset,11,119.0,0.0,2026-01-02
+So-10283,South,Monitor Stand,9,59.0,53.1,2026-06-16
+So-10284,Central,Office Chair,19,249.0,0.0,2026-07-19
+So-10285,West,Headset,22,119.0,0.0,2026-04-08
+So-10286,East,Headset,35,119.0,0.0,2026-07-14
+So-10287,Central,Monitor Stand,29,59.0,0.0,2026-04-22
+So-10288,West,Keyboard,3,89.0,0.0,2026-07-23
+So-10289,East,Mouse,14,29.5,20.65,2026-09-14
+So-10290,West,Keyboard,20,89.0,89.0,2026-09-28
+So-10291,West,Headset,1,119.0,5.95,2026-07-29
+So-10292,South,Headset,33,119.0,0.0,2026-08-15
+So-10293,West,Desk Lamp,15,39.9,0.0,2026-01-08
+So-10294,West,Desk Lamp,36,39.9,0.0,2026-04-02
+So-10295,South,Keyboard,20,89.0,0.0,2026-04-22
+So-10296,North,Monitor Stand,35,59.0,103.25,2026-06-02
+So-10297,West,Headset,30,119.0,0.0,2026-01-20
+So-10298,West,Mouse,22,29.5,0.0,2026-04-01
+So-10299,East,Printer Paper,21,21.0,0.0,2026-07-12
+So-10300,Central,Notebook Pack,12,12.5,0.0,2026-02-21
+So-10301,Central,Desk Lamp,28,39.9,0.0,2026-05-29
+So-10302,West,Monitor Stand,37,59.0,218.3,2026-04-01
+So-10303,North,Headset,22,119.0,130.9,2026-02-10
+So-10304,North,Monitor Stand,21,59.0,0.0,2026-06-06
+So-10305,South,Notebook Pack,34,12.5,0.0,2026-05-19
+So-10306,East,Mouse,27,29.5,0.0,2026-08-14
+So-10307,Central,Headset,31,119.0,184.45,2026-02-22
+So-10308,South,Mouse,25,29.5,0.0,2026-05-18
+So-10309,North,Keyboard,37,89.0,0.0,2026-02-28
+So-10310,Central,Notebook Pack,38,12.5,0.0,2026-08-20
+So-10311,South,Desk Lamp,35,39.9,139.65,2026-09-16
+So-10312,North,Headset,7,119.0,0.0,2026-05-07
+So-10313,East,Headset,34,119.0,202.3,2026-05-11
+So-10314,Central,Office Chair,19,249.0,473.1,2026-05-09
+So-10315,Central,Desk Lamp,1,39.9,0.0,2026-03-29
+So-10316,East,Keyboard,25,89.0,222.5,2026-09-09
+So-10317,West,Office Chair,3,249.0,0.0,2026-07-02
+So-10318,South,Headset,18,119.0,0.0,2026-09-28
+So-10319,North,Notebook Pack,5,12.5,3.12,2026-08-17
+So-10320,South,Printer Paper,17,21.0,35.7,2026-04-03
+So-10321,East,Office Chair,3,249.0,74.7,2026-04-02
+So-10322,East,Notebook Pack,9,12.5,0.0,2026-08-13
+So-10323,East,Mouse,30,29.5,0.0,2026-08-08
+So-10324,East,Office Chair,10,249.0,0.0,2026-02-26
+So-10325,West,Office Chair,28,249.0,0.0,2026-08-22
+So-10326,East,Monitor Stand,35,59.0,103.25,2026-04-07
+So-10327,Central,Printer Paper,33,21.0,0.0,2026-01-23
+So-10328,West,Keyboard,8,89.0,0.0,2026-01-04
+So-10329,Central,Desk Lamp,39,39.9,0.0,2026-09-27
+So-10330,Central,Office Chair,5,249.0,62.25,2026-05-01
+So-10331,South,Mouse,26,29.5,0.0,2026-07-22
+So-10332,Central,Headset,22,119.0,0.0,2026-07-19
+So-10333,South,Notebook Pack,7,12.5,4.38,2026-02-27
+So-10334,South,Office Chair,19,249.0,0.0,2026-08-04
+So-10335,West,Office Chair,11,249.0,136.95,2026-04-03
+So-10336,Central,Office Chair,7,249.0,0.0,2026-06-14
+So-10337,Central,Notebook Pack,23,12.5,0.0,2026-05-28
+So-10338,West,Monitor Stand,6,59.0,35.4,2026-08-27
+So-10339,North,Office Chair,19,249.0,473.1,2026-02-20
+So-10340,South,Printer Paper,6,21.0,6.3,2026-09-27
+So-10341,East,Mouse,37,29.5,0.0,2026-09-29
+So-10342,Central,Office Chair,7,249.0,174.3,2026-02-15
+So-10343,East,Mouse,19,29.5,0.0,2026-07-18
+So-10344,North,Printer Paper,11,21.0,23.1,2026-03-17
+So-10345,West,Desk Lamp,30,39.9,0.0,2026-05-16
+So-10346,South,Mouse,18,29.5,0.0,2026-08-31
+So-10347,West,Monitor Stand,25,59.0,147.5,2026-05-31
+So-10348,Central,Headset,11,119.0,0.0,2026-03-14
+So-10349,West,Mouse,30,29.5,88.5,2026-07-01
+So-10350,East,Mouse,29,29.5,85.55,2026-06-27
+So-10351,South,Mouse,11,29.5,0.0,2026-07-20
+So-10352,South,Monitor Stand,9,59.0,53.1,2026-05-17
+So-10353,South,Keyboard,34,89.0,0.0,2026-03-05
+So-10354,North,Monitor Stand,34,59.0,200.6,2026-03-19
+So-10355,East,Printer Paper,18,21.0,0.0,2026-01-31
+So-10356,West,Mouse,39,29.5,0.0,2026-03-09
+So-10357,North,Printer Paper,30,21.0,0.0,2026-01-29
+So-10358,North,Monitor Stand,9,59.0,0.0,2026-02-16
+So-10359,East,Headset,7,119.0,0.0,2026-03-02
+So-10360,Central,Office Chair,10,249.0,0.0,2026-08-10
+So-10361,West,Keyboard,3,89.0,13.35,2026-09-03
+So-10362,East,Keyboard,35,89.0,155.75,2026-05-28
+So-10363,West,Mouse,14,29.5,20.65,2026-04-18
+So-10364,West,Headset,5,119.0,0.0,2026-04-20
+So-10365,Central,Headset,30,119.0,178.5,2026-04-01
+So-10366,East,Notebook Pack,2,12.5,0.0,2026-08-20
+So-10367,Central,Keyboard,34,89.0,151.3,2026-09-10
+So-10368,South,Desk Lamp,37,39.9,0.0,2026-01-26
+So-10369,South,Keyboard,17,89.0,75.65,2026-07-20
+So-10370,Central,Keyboard,16,89.0,71.2,2026-08-26
+So-10371,South,Mouse,14,29.5,0.0,2026-01-27
+So-10372,West,Notebook Pack,1,12.5,0.0,2026-07-17
+So-10373,Central,Notebook Pack,31,12.5,38.75,2026-08-26
+So-10374,North,Notebook Pack,34,12.5,42.5,2026-09-03
+So-10375,South,Desk Lamp,10,39.9,0.0,2026-04-12
+So-10376,West,Notebook Pack,26,12.5,0.0,2026-09-12
+So-10377,North,Printer Paper,32,21.0,0.0,2026-05-18
+So-10378,North,Headset,8,119.0,0.0,2026-03-31
+So-10379,Central,Notebook Pack,29,12.5,36.25,2026-09-27
+So-10380,South,Desk Lamp,20,39.9,0.0,2026-08-19
+So-10381,Central,Headset,12,119.0,142.8,2026-01-28
+So-10382,East,Printer Paper,9,21.0,0.0,2026-05-23
+So-10383,Central,Keyboard,23,89.0,204.7,2026-07-07
+So-10384,South,Keyboard,12,89.0,0.0,2026-05-20
+So-10385,North,Monitor Stand,19,59.0,0.0,2026-02-22
+So-10386,Central,Mouse,9,29.5,13.28,2026-02-13
+So-10387,South,Desk Lamp,19,39.9,0.0,2026-03-06
+So-10388,South,Office Chair,13,249.0,0.0,2026-03-06
+So-10389,South,Notebook Pack,27,12.5,0.0,2026-07-02
+So-10390,East,Mouse,19,29.5,0.0,2026-02-09
+So-10391,Central,Keyboard,37,89.0,329.3,2026-06-19
+So-10392,North,Desk Lamp,4,39.9,0.0,2026-01-11
+So-10393,West,Headset,34,119.0,202.3,2026-04-03
+So-10394,Central,Keyboard,27,89.0,0.0,2026-07-08
+So-10395,South,Notebook Pack,16,12.5,0.0,2026-04-05
+So-10396,Central,Mouse,39,29.5,0.0,2026-01-02
+So-10397,South,Mouse,22,29.5,64.9,2026-04-12
+So-10398,Central,Mouse,6,29.5,8.85,2026-02-09
+So-10399,North,Notebook Pack,32,12.5,0.0,2026-01-06
+So-10400,East,Office Chair,36,249.0,0.0,2026-06-17
+So-10401,Central,Monitor Stand,36,59.0,0.0,2026-01-28
+So-10402,South,Desk Lamp,27,39.9,0.0,2026-09-06
+So-10403,South,Mouse,17,29.5,0.0,2026-08-11
+So-10404,West,Printer Paper,36,21.0,0.0,2026-02-26
+So-10405,West,Monitor Stand,16,59.0,47.2,2026-09-19
+So-10406,South,Keyboard,11,89.0,0.0,2026-04-12
+So-10407,East,Keyboard,19,89.0,0.0,2026-01-06
+So-10408,East,Keyboard,35,89.0,155.75,2026-02-17
+So-10409,North,Monitor Stand,11,59.0,0.0,2026-07-20
+So-10410,West,Printer Paper,22,21.0,46.2,2026-08-18
+So-10411,Central,Office Chair,1,249.0,24.9,2026-04-01
+So-10412,East,Mouse,12,29.5,17.7,2026-09-22
+So-10413,North,Printer Paper,25,21.0,0.0,2026-04-11
+So-10414,West,Office Chair,23,249.0,286.35,2026-08-05
+So-10415,East,Notebook Pack,18,12.5,0.0,2026-09-26
+So-10416,Central,Office Chair,30,249.0,747.0,2026-03-21
+So-10417,North,Monitor Stand,37,59.0,109.15,2026-06-04
+So-10418,South,Monitor Stand,13,59.0,38.35,2026-05-26
+So-10419,North,Headset,7,119.0,0.0,2026-03-26
+So-10420,South,Mouse,2,29.5,0.0,2026-08-29
+So-10421,West,Headset,-2,119.0,0.0,2026-03-30
+So-10422,North,Notebook Pack,14,12.5,0.0,2026-01-30
+So-10423,North,Printer Paper,32,21.0,67.2,2026-07-12
+So-10424,South,Keyboard,6,89.0,53.4,2026-01-23
+So-10425,Central,Office Chair,5,249.0,124.5,2026-07-27
+So-10426,East,Desk Lamp,27,39.9,0.0,2026-03-31
+So-10427,North,Printer Paper,31,21.0,0.0,2026-03-08
+So-10428,East,Keyboard,8,89.0,71.2,2026-07-05
+So-10429,West,Printer Paper,34,21.0,0.0,2026-04-13
+So-10430,West,Printer Paper,32,21.0,0.0,2026-05-28
+So-10431,South,Notebook Pack,2,12.5,1.25,2026-05-01
+So-10432,West,Office Chair,4,249.0,0.0,2026-06-06
+So-10433,South,Headset,17,119.0,101.15,2026-04-04
+So-10434,Central,Desk Lamp,8,39.9,31.92,2026-01-06
+So-10435,East,Keyboard,13,89.0,115.7,2026-07-07
+So-10436,West,Mouse,9,29.5,0.0,2026-02-25
+So-10437,North,Monitor Stand,15,59.0,0.0,2026-07-29
+So-10438,Central,Keyboard,36,89.0,0.0,2026-08-08
+So-10439,East,Monitor Stand,35,59.0,0.0,2026-06-06
+So-10440,East,Desk Lamp,35,39.9,69.83,2026-06-15
+So-10441,North,Desk Lamp,26,39.9,103.74,2026-04-11
+So-10442,North,Office Chair,35,249.0,0.0,2026-02-22
+So-10443,Central,Office Chair,19,249.0,0.0,2026-03-04
+So-10444,East,Desk Lamp,16,39.9,0.0,2026-01-23
+So-10445,West,Mouse,30,29.5,0.0,2026-01-15
+So-10446,East,Keyboard,13,89.0,0.0,2026-03-03
+So-10447,Central,Monitor Stand,30,59.0,0.0,2026-04-21
+So-10448,East,Desk Lamp,21,39.9,41.9,2026-07-29
+So-10449,East,Office Chair,16,249.0,0.0,2026-04-28
+So-10450,East,Headset,39,119.0,0.0,2026-08-30
+So-10451,South,Headset,37,119.0,440.3,2026-08-21
+So-10452,West,Printer Paper,17,21.0,0.0,2026-06-12
+So-10453,North,Mouse,23,29.5,0.0,2026-01-04
+So-10454,South,Desk Lamp,36,39.9,0.0,2026-03-02
+So-10455,North,Notebook Pack,31,12.5,0.0,2026-09-17
+So-10456,West,Printer Paper,11,21.0,0.0,2026-02-11
+So-10457,Central,Monitor Stand,2,59.0,11.8,2026-04-29
+So-10458,West,Mouse,35,29.5,51.62,2026-05-29
+So-10459,North,Headset,27,119.0,0.0,2026-05-03
+So-10460,South,Desk Lamp,24,39.9,0.0,2026-04-14
+So-10461,East,Desk Lamp,11,39.9,43.89,2026-09-12
+So-10462,West,Office Chair,4,249.0,0.0,2026-09-10
+So-10463,West,Monitor Stand,30,59.0,88.5,2026-03-14
+So-10464,East,Printer Paper,9,21.0,0.0,2026-03-02
+So-10465,North,Headset,7,119.0,0.0,2026-01-25
+So-10466,South,Headset,9,119.0,53.55,2026-06-10
+So-10467,Central,Desk Lamp,40,39.9,159.6,2026-06-30
+So-10468,East,Monitor Stand,6,59.0,17.7,2026-06-22
+So-10469,Central,Office Chair,15,249.0,373.5,2026-01-13
+So-10470,North,Printer Paper,9,21.0,0.0,2026-03-15
+So-10471,South,Mouse,4,29.5,5.9,2026-07-13
+So-10472,East,Headset,4,119.0,47.6,2026-03-22
+So-10473,Central,Mouse,10,29.5,0.0,2026-09-05
+So-10474,Central,Mouse,1,29.5,2.95,2026-07-27
+So-10475,Central,Keyboard,39,89.0,347.1,2026-09-03
+So-10476,North,Notebook Pack,7,12.5,0.0,2026-01-11
+So-10477,North,Monitor Stand,32,59.0,0.0,2026-07-22
+So-10478,East,Keyboard,39,89.0,173.55,2026-01-05
+So-10479,East,Notebook Pack,14,12.5,0.0,2026-08-08
+So-10480,East,Monitor Stand,27,59.0,79.65,2026-08-18
+So-10481,Central,Desk Lamp,28,39.9,111.72,2026-09-07
+So-10482,West,Headset,32,119.0,380.8,2026-04-28
+So-10483,Central,Desk Lamp,9,39.9,35.91,2026-08-05
+So-10484,West,Headset,5,119.0,0.0,2026-02-16
+So-10485,East,Monitor Stand,9,59.0,0.0,2026-07-06
+So-10486,West,Printer Paper,36,21.0,0.0,2026-04-24
+So-10487,West,Notebook Pack,38,12.5,47.5,2026-09-22
+So-10488,West,Headset,17,119.0,202.3,2026-06-16
+So-10489,West,Monitor Stand,5,59.0,0.0,2026-05-21
+So-10490,Central,Mouse,23,29.5,33.93,2026-02-20
+So-10491,North,Headset,31,119.0,0.0,2026-03-03
+So-10492,Central,Office Chair,18,249.0,224.1,2026-08-30
+So-10493,North,Printer Paper,27,21.0,28.35,2026-09-07
+So-10494,West,Monitor Stand,23,59.0,135.7,2026-03-14
+So-10495,North,Notebook Pack,7,12.5,4.38,2026-06-05
+So-10496,North,Keyboard,5,89.0,0.0,2026-09-07
+So-10497,South,Monitor Stand,16,59.0,0.0,2026-05-19
+So-10498,East,Notebook Pack,4,12.5,5.0,2026-09-04
+So-10499,Central,Office Chair,36,249.0,896.4,2026-09-16
+So-10500,Central,Printer Paper,20,21.0,42.0,2026-05-15
+So-10501,Central,Desk Lamp,28,39.9,0.0,2026-07-10
+So-10502,West,Monitor Stand,17,59.0,0.0,2026-05-10
+So-10503,South,Mouse,33,29.5,0.0,2026-01-08
+So-10504,East,Keyboard,25,89.0,0.0,2026-04-16
+So-10505,North,Printer Paper,19,21.0,0.0,2026-05-20
+So-10506,South,Keyboard,30,89.0,133.5,2026-07-31
+So-10507,North,Office Chair,39,249.0,0.0,2026-08-14
+So-10508,Central,Monitor Stand,39,59.0,0.0,2026-01-20
+So-10509,North,Printer Paper,32,21.0,33.6,2026-06-21
+So-10510,Central,Headset,11,119.0,0.0,2026-04-16
+So-10511,West,Headset,8,119.0,0.0,2026-02-08
+So-10512,Central,Notebook Pack,12,12.5,0.0,2026-05-21
+So-10513,East,Headset,5,119.0,59.5,2026-08-06
+So-10514,Central,Keyboard,3,89.0,0.0,2026-08-27
+So-10515,Central,Monitor Stand,-4,59.0,0.0,2026-05-10
+So-10516,Central,Keyboard,29,89.0,0.0,2026-06-26
+So-10517,Central,Office Chair,30,249.0,0.0,2026-01-09
+So-10518,East,Mouse,36,29.5,0.0,2026-03-22
+So-10519,North,Printer Paper,39,21.0,81.9,2026-07-08
+So-10520,North,Headset,39,119.0,0.0,2026-03-25
+So-10521,South,Office Chair,35,249.0,0.0,2026-01-21
+So-10522,North,Monitor Stand,1,59.0,0.0,2026-01-12
+So-10523,Central,Printer Paper,31,21.0,0.0,2026-08-23
+So-10524,West,Notebook Pack,24,12.5,30.0,2026-05-25
+So-10525,East,Office Chair,2,249.0,0.0,2026-04-29
+So-10526,South,Printer Paper,2,21.0,0.0,2026-09-10
+So-10527,Central,Monitor Stand,29,59.0,0.0,2026-09-02
+So-10528,East,Keyboard,40,89.0,0.0,2026-06-29
+So-10529,North,Office Chair,28,249.0,0.0,2026-09-14
+So-10530,North,Office Chair,17,249.0,0.0,2026-09-19
+So-10531,South,Keyboard,15,89.0,0.0,2026-09-20
+So-10532,South,Notebook Pack,38,12.5,23.75,2026-05-31
+So-10533,South,Keyboard,22,89.0,195.8,2026-02-14
+So-10534,South,Notebook Pack,40,12.5,0.0,2026-07-05
+So-10535,South,Notebook Pack,32,12.5,20.0,2026-06-02
+So-10536,South,Printer Paper,37,21.0,0.0,2026-08-15
+So-10537,East,Mouse,5,29.5,0.0,2026-09-18
+So-10538,West,Monitor Stand,37,59.0,218.3,2026-07-16
+So-10539,Central,Monitor Stand,19,59.0,0.0,2026-08-28
+So-10540,North,Printer Paper,37,21.0,0.0,2026-09-06
+So-10541,East,Printer Paper,14,21.0,0.0,2026-08-09
+So-10542,South,Mouse,37,29.5,0.0,2026-07-10
+So-10543,Central,Monitor Stand,21,59.0,0.0,2026-05-26
+So-10544,East,Notebook Pack,20,12.5,0.0,2026-03-17
+So-10545,North,Mouse,27,29.5,0.0,2026-09-22
+So-10546,North,Desk Lamp,40,39.9,159.6,2026-01-09
+So-10547,North,Headset,25,119.0,297.5,2026-03-16
+So-10548,South,Headset,8,119.0,47.6,2026-09-16
+So-10549,South,Keyboard,35,89.0,311.5,2026-02-23
+So-10550,South,Monitor Stand,27,59.0,0.0,2026-01-25
+So-10551,North,Keyboard,16,89.0,0.0,2026-06-27
+So-10552,South,Headset,25,119.0,0.0,2026-08-09
+So-10553,West,Desk Lamp,14,39.9,0.0,2026-06-26
+So-10554,Central,Keyboard,33,89.0,0.0,2026-03-29
+So-10555,North,Printer Paper,6,21.0,0.0,2026-03-10
+So-10556,East,Keyboard,23,89.0,0.0,2026-06-12
+So-10557,South,Mouse,24,29.5,0.0,2026-08-14
+So-10558,North,Desk Lamp,29,39.9,115.71,2026-05-28
+So-10559,North,Mouse,11,29.5,32.45,2026-04-24
+So-10560,West,Headset,2,119.0,0.0,2026-01-22
+So-10561,Central,Keyboard,15,89.0,0.0,2026-07-18
+So-10562,East,Headset,17,119.0,0.0,2026-06-16
+So-10563,North,Headset,7,119.0,0.0,2026-07-19
+So-10564,South,Office Chair,8,249.0,0.0,2026-01-04
+So-10565,West,Printer Paper,31,21.0,0.0,2026-05-22
+So-10566,Central,Office Chair,6,249.0,0.0,2026-05-09
+So-10567,North,Notebook Pack,28,12.5,35.0,2026-06-26
+So-10568,East,Notebook Pack,22,12.5,0.0,2026-03-05
+So-10569,Central,Monitor Stand,8,59.0,0.0,2026-01-30
+So-10570,Central,Notebook Pack,6,12.5,0.0,2026-09-23
+So-10571,Central,Mouse,11,29.5,0.0,2026-03-29
+So-10572,North,Desk Lamp,14,39.9,0.0,2026-04-25
+So-10573,West,Notebook Pack,15,12.5,9.38,2026-05-29
+So-10574,East,Office Chair,39,249.0,971.1,2026-05-11
+So-10575,South,Desk Lamp,38,39.9,75.81,2026-09-11
+So-10576,Central,Mouse,24,29.5,0.0,2026-07-26
+So-10577,Central,Keyboard,24,89.0,213.6,2026-09-19
+So-10578,South,Notebook Pack,33,12.5,0.0,2026-09-01
+So-10579,North,Printer Paper,3,21.0,0.0,2026-02-01
+So-10580,East,Notebook Pack,8,12.5,0.0,2026-05-29
+So-10581,North,Notebook Pack,23,12.5,0.0,2026-08-25
+So-10582,East,Desk Lamp,2,39.9,7.98,2026-06-25
+So-10583,West,Mouse,39,29.5,115.05,2026-05-19
+So-10584,East,Office Chair,2,249.0,0.0,2026-04-21
+So-10585,South,Desk Lamp,32,39.9,63.84,2026-07-12
+So-10586,East,Keyboard,12,89.0,106.8,2026-01-08
+So-10587,Central,Monitor Stand,7,59.0,0.0,2026-06-18
+So-10588,North,Monitor Stand,23,59.0,0.0,2026-04-17
+So-10589,North,Headset,40,119.0,0.0,2026-02-26
+So-10590,South,Mouse,18,29.5,0.0,2026-03-05
+So-10591,West,Mouse,19,29.5,56.05,2026-05-20
+So-10592,West,Headset,22,119.0,0.0,2026-07-22
+So-10593,North,Printer Paper,19,21.0,39.9,2026-05-06
+So-10594,North,Mouse,10,29.5,0.0,2026-02-19
+So-10595,East,Office Chair,6,249.0,0.0,2026-07-03
+So-10596,West,Printer Paper,12,21.0,0.0,2026-01-31
+So-10597,North,Keyboard,32,89.0,0.0,2026-03-01
+So-10598,South,Desk Lamp,9,39.9,0.0,2026-03-28
+So-10599,North,Monitor Stand,21,59.0,0.0,2026-01-13
+So-10600,North,Notebook Pack,19,12.5,0.0,2026-07-10
+So-10601,East,Office Chair,13,249.0,161.85,2026-08-21
+So-10602,West,Desk Lamp,25,39.9,0.0,2026-04-10
+So-10603,North,Printer Paper,20,21.0,0.0,2026-07-10
+So-10604,East,Printer Paper,39,21.0,0.0,2026-02-07
+So-10605,Central,Keyboard,15,89.0,0.0,2026-06-14
+So-10606,North,Headset,28,119.0,166.6,2026-04-04
+So-10607,West,Printer Paper,35,21.0,0.0,2026-08-12
+So-10608,South,Headset,22,119.0,0.0,2026-08-26
+So-10609,North,Notebook Pack,20,12.5,0.0,2026-01-14
+So-10610,North,Printer Paper,40,0.0,0.0,2026-09-04
+So-10611,West,Notebook Pack,30,12.5,0.0,2026-07-08
+So-10612,Central,Keyboard,23,89.0,0.0,2026-07-30
+So-10613,East,Mouse,5,29.5,0.0,2026-03-30
+So-10614,Central,Keyboard,15,89.0,66.75,2026-06-28
+So-10615,West,Keyboard,15,89.0,0.0,2026-05-20
+So-10616,West,Monitor Stand,32,59.0,94.4,2026-05-28
+So-10617,North,Headset,19,119.0,0.0,2026-07-03
+So-10618,South,Desk Lamp,31,39.9,0.0,2026-07-20
+So-10619,West,Keyboard,8,89.0,0.0,2026-02-06
+So-10620,South,Printer Paper,35,21.0,0.0,2026-03-27
+So-10621,Central,Desk Lamp,17,39.9,0.0,2026-03-27
+So-10622,West,Keyboard,14,89.0,124.6,2026-02-25
+So-10623,North,Mouse,36,29.5,0.0,2026-08-10
+So-10624,South,Printer Paper,19,21.0,0.0,2026-05-06
+So-10625,Central,Desk Lamp,8,39.9,15.96,2026-09-08
+So-10626,Central,Monitor Stand,14,59.0,0.0,2026-09-08
+So-10627,Central,Keyboard,24,89.0,0.0,2026-04-13
+So-10628,North,Desk Lamp,21,39.9,0.0,2026-03-18
+So-10629,Central,Monitor Stand,31,59.0,0.0,2026-02-14
+So-10630,West,Desk Lamp,10,39.9,0.0,2026-05-26
+So-10631,South,Headset,33,119.0,196.35,2026-07-27
+So-10632,Central,Monitor Stand,36,59.0,106.2,2026-07-17
+So-10633,West,Notebook Pack,36,12.5,0.0,2026-06-17
+So-10634,West,Office Chair,36,249.0,0.0,2026-09-08
+So-10635,South,Keyboard,19,89.0,169.1,2026-08-16
+So-10636,West,Headset,35,119.0,0.0,2026-09-10
+So-10637,North,Printer Paper,14,21.0,29.4,2026-04-04
+So-10638,East,Keyboard,17,89.0,0.0,2026-07-25
+So-10639,North,Keyboard,11,89.0,0.0,2026-06-01
+So-10640,East,Desk Lamp,38,39.9,0.0,2026-01-25
+So-10641,North,Notebook Pack,36,12.5,0.0,2026-03-16
+So-10642,West,Monitor Stand,24,59.0,0.0,2026-07-23
+So-10643,East,Office Chair,28,249.0,0.0,2026-04-13
+So-10644,West,Keyboard,17,89.0,0.0,2026-08-08
+So-10645,South,Desk Lamp,7,39.9,0.0,2026-05-01
+So-10646,West,Desk Lamp,34,39.9,67.83,2026-02-17
+So-10647,West,Notebook Pack,7,12.5,0.0,2026-04-22
+So-10648,South,Headset,24,119.0,0.0,2026-07-12
+So-10649,West,Printer Paper,12,21.0,0.0,2026-04-13
+So-10650,West,Printer Paper,20,21.0,0.0,2026-07-17
+So-10651,North,Office Chair,5,249.0,0.0,2026-07-23
+So-10652,East,Desk Lamp,29,39.9,0.0,2026-06-21
+So-10653,North,Notebook Pack,15,12.5,0.0,2026-05-28
+So-10654,South,Keyboard,23,89.0,204.7,2026-09-07
+So-10655,North,Headset,3,119.0,0.0,2026-06-01
+So-10656,North,Desk Lamp,32,39.9,63.84,2026-07-05
+So-10657,North,Office Chair,30,249.0,0.0,2026-06-16
+So-10658,East,Printer Paper,38,21.0,0.0,2026-07-04
+So-10659,East,Monitor Stand,34,59.0,0.0,2026-01-02
+So-10660,South,Keyboard,8,89.0,35.6,2026-08-01
+So-10661,East,Notebook Pack,31,12.5,0.0,2026-06-30
+So-10662,West,Notebook Pack,34,12.5,0.0,2026-01-07
+So-10663,South,Desk Lamp,16,39.9,31.92,2026-08-18
+So-10664,South,Notebook Pack,22,12.5,0.0,2026-08-04
+So-10665,Central,Printer Paper,36,21.0,37.8,2026-08-14
+So-10666,East,Headset,33,119.0,0.0,2026-09-19
+So-10667,North,Monitor Stand,21,59.0,0.0,2026-06-19
+So-10668,West,Mouse,8,29.5,23.6,2026-02-23
+So-10669,South,Headset,10,119.0,0.0,2026-05-18
+So-10670,South,Headset,34,119.0,202.3,2026-07-25
+So-10671,East,Printer Paper,34,21.0,0.0,2026-01-11
+So-10672,Central,Desk Lamp,26,39.9,103.74,2026-03-14
+So-10673,Central,Office Chair,20,249.0,249.0,2026-08-14
+So-10674,South,Keyboard,21,89.0,93.45,2026-06-29
+So-10675,South,Notebook Pack,21,12.5,13.12,2026-02-25
+So-10676,Central,Notebook Pack,29,12.5,0.0,2026-04-30
+So-10677,North,Office Chair,8,249.0,0.0,2026-09-16
+So-10678,Central,Monitor Stand,36,59.0,212.4,2026-07-16
+So-10679,North,Office Chair,12,249.0,0.0,2026-01-11
+So-10680,West,Headset,30,119.0,0.0,2026-08-31
+So-10681,Central,Printer Paper,15,21.0,0.0,2026-02-06
+So-10682,East,Keyboard,14,89.0,62.3,2026-09-16
+So-10683,North,Desk Lamp,9,39.9,35.91,2026-01-10
+So-10684,Central,Headset,12,119.0,0.0,2026-09-01
+So-10685,West,Office Chair,25,249.0,0.0,2026-07-10
+So-10686,West,Desk Lamp,30,39.9,0.0,2026-02-12
+So-10687,South,Notebook Pack,14,12.5,17.5,2026-09-14
+So-10688,Central,Desk Lamp,27,39.9,0.0,2026-02-01
+So-10689,South,Notebook Pack,15,12.5,18.75,2026-03-27
+So-10690,Central,Mouse,31,29.5,0.0,2026-06-15
+So-10691,East,Printer Paper,4,21.0,0.0,2026-09-28
+So-10692,West,Keyboard,37,89.0,0.0,2026-03-08
+So-10693,North,Headset,28,119.0,333.2,2026-08-26
+So-10694,Central,Desk Lamp,6,39.9,0.0,2026-01-24
+So-10695,South,Headset,18,119.0,214.2,2026-02-02
+So-10696,East,Printer Paper,27,21.0,0.0,2026-08-21
+So-10697,North,Mouse,15,29.5,22.12,2026-06-12
+So-10698,Central,Headset,36,119.0,214.2,2026-08-10
+So-10699,South,Desk Lamp,24,39.9,0.0,2026-08-12
+So-10700,South,Monitor Stand,22,59.0,0.0,2026-06-18
+So-10701,North,Notebook Pack,26,12.5,32.5,2026-01-06
+So-10702,West,Office Chair,29,249.0,0.0,2026-09-17
+So-10703,Central,Printer Paper,16,21.0,0.0,2026-01-03
+So-10704,North,Monitor Stand,38,59.0,0.0,2026-07-20
+So-10705,South,Mouse,3,29.5,8.85,2026-07-30
+So-10706,North,Keyboard,34,89.0,302.6,2026-04-03
+So-10707,Central,Headset,28,119.0,166.6,2026-02-16
+So-10708,East,Office Chair,22,249.0,547.8,2026-01-30
+So-10709,Central,Desk Lamp,23,39.9,0.0,2026-01-31
+So-10710,North,Desk Lamp,11,39.9,0.0,2026-06-07
+So-10711,Central,Desk Lamp,16,39.9,0.0,2026-07-28
+So-10712,East,Notebook Pack,24,12.5,15.0,2026-04-29
+So-10713,North,Office Chair,15,249.0,0.0,2026-08-14
+So-10714,West,Monitor Stand,18,59.0,53.1,2026-03-24
+So-10715,West,Keyboard,7,89.0,0.0,2026-01-19
+So-10716,East,Mouse,18,29.5,26.55,2026-03-15
+So-10717,South,Mouse,36,29.5,0.0,2026-05-17
+So-10718,North,Desk Lamp,24,39.9,0.0,2026-06-16
+So-10719,Central,Headset,16,119.0,0.0,2026-07-21
+So-10720,East,Headset,26,119.0,0.0,2026-08-22
+So-10721,South,Monitor Stand,35,59.0,206.5,2026-09-11
+So-10722,East,Office Chair,23,249.0,0.0,2026-08-29
+So-10723,East,Headset,9,119.0,0.0,2026-05-12
+So-10724,Central,Mouse,28,29.5,41.3,2026-03-22
+So-10725,Central,Office Chair,4,249.0,0.0,2026-03-24
+So-10726,Central,Keyboard,1,89.0,4.45,2026-01-11
+So-10727,North,Office Chair,35,249.0,871.5,2026-09-24
+So-10728,East,Keyboard,35,89.0,155.75,2026-04-03
+So-10729,North,Headset,33,119.0,0.0,2026-01-27
+So-10730,West,Keyboard,33,89.0,146.85,2026-07-16
+So-10731,East,Desk Lamp,19,39.9,0.0,2026-02-25
+So-10732,South,Office Chair,24,249.0,0.0,2026-06-13
+So-10733,West,Keyboard,2,89.0,8.9,2026-04-16
+So-10734,South,Printer Paper,1745,21.0,0.0,2026-05-29
+So-10735,North,Headset,16,119.0,0.0,2026-09-19
+So-10736,East,Printer Paper,14,21.0,29.4,2026-07-21
+So-10737,East,Printer Paper,28,21.0,58.8,2026-01-20
+So-10738,Central,Desk Lamp,26,39.9,0.0,2026-08-05
+So-10739,West,Desk Lamp,31,39.9,0.0,2026-05-05
+So-10740,West,Desk Lamp,22,39.9,0.0,2026-05-02
+So-10741,West,Monitor Stand,23,59.0,0.0,2026-02-13
+So-10742,East,Monitor Stand,1,59.0,0.0,2026-09-01
+So-10743,West,Notebook Pack,19,12.5,0.0,2026-09-07
+So-10744,Central,Keyboard,35,89.0,0.0,2026-03-13
+So-10745,South,Monitor Stand,30,59.0,0.0,2026-08-30
+So-10746,South,Desk Lamp,15,39.9,29.93,2026-02-10
+So-10747,West,Printer Paper,33,21.0,69.3,2026-09-05
+So-10748,South,Headset,19,119.0,0.0,2026-05-14
+So-10749,West,Printer Paper,23,21.0,24.15,2026-05-15
+So-10750,East,Desk Lamp,28,39.9,55.86,2026-09-23
+So-10751,Central,Printer Paper,32,21.0,0.0,2026-05-26
+So-10752,East,Desk Lamp,7,39.9,13.97,2026-07-24
+So-10753,East,Mouse,13,29.5,38.35,2026-02-14
+So-10754,North,Desk Lamp,5,39.9,9.98,2026-02-23
+So-10755,East,Monitor Stand,21,59.0,0.0,2026-01-25
+So-10756,North,Notebook Pack,36,12.5,22.5,2026-04-23
+So-10757,East,Notebook Pack,28,12.5,0.0,2026-03-14
+So-10758,West,Printer Paper,34,21.0,35.7,2026-03-16
+So-10759,West,Printer Paper,2,21.0,0.0,2026-05-26
+So-10760,Central,Headset,1,119.0,0.0,2026-04-27
+So-10761,South,Keyboard,15,89.0,0.0,2026-06-14
+So-10762,West,Monitor Stand,38,59.0,0.0,2026-08-13
+So-10763,North,Keyboard,39,89.0,0.0,2026-09-06
+So-10764,East,Monitor Stand,13,59.0,0.0,2026-02-19
+So-10765,South,Mouse,33,29.5,0.0,2026-08-23
+So-10766,East,Office Chair,24,249.0,0.0,2026-06-30
+So-10767,Central,Notebook Pack,17,12.5,0.0,2026-01-09
+So-10768,North,Mouse,21,29.5,0.0,2026-03-06
+So-10769,North,Notebook Pack,34,12.5,0.0,2026-02-08
+So-10770,West,Monitor Stand,24,59.0,0.0,2026-04-17
+So-10771,South,Desk Lamp,40,39.9,0.0,2026-01-14
+So-10772,Central,Keyboard,13,89.0,57.85,2026-05-26
+So-10773,South,Office Chair,10,249.0,0.0,2026-03-05
+So-10774,Central,Monitor Stand,8,59.0,0.0,2026-06-16
+So-10775,West,Desk Lamp,7,39.9,27.93,2026-01-03
+So-10776,South,Office Chair,3,249.0,0.0,2026-05-03
+So-10777,South,Mouse,2,29.5,0.0,2026-03-04
+So-10778,North,Mouse,32,29.5,0.0,2026-09-01
+So-10779,Central,Notebook Pack,-5,12.5,0.0,2026-05-02
+So-10780,South,Printer Paper,35,21.0,0.0,2026-07-08
+So-10781,South,Headset,29,119.0,345.1,2026-06-02
+So-10782,East,Monitor Stand,30,59.0,88.5,2026-01-28
+So-10783,East,Headset,22,119.0,130.9,2026-03-10
+So-10784,South,Monitor Stand,31,59.0,0.0,2026-03-04
+So-10785,South,Desk Lamp,3,39.9,0.0,2026-01-20
+So-10786,East,Monitor Stand,17,59.0,0.0,2026-09-05
+So-10787,South,Printer Paper,12,21.0,25.2,2026-02-01
+So-10788,North,Printer Paper,2,21.0,0.0,2026-08-18
+So-10789,West,Headset,31,119.0,368.9,2026-04-02
+So-10790,East,Office Chair,1,249.0,0.0,2026-09-10
+So-10791,South,Notebook Pack,24,12.5,0.0,2026-04-26
+So-10792,Central,Headset,26,119.0,0.0,2026-02-01
+So-10793,West,Notebook Pack,2,12.5,0.0,2026-05-29
+So-10794,East,Notebook Pack,11,12.5,0.0,2026-05-26
+So-10795,East,Desk Lamp,28,39.9,0.0,2026-04-21
+So-10796,West,Printer Paper,2,21.0,0.0,2026-06-07
+So-10797,North,Desk Lamp,18,39.9,71.82,2026-03-12
+So-10798,East,Desk Lamp,29,39.9,0.0,2026-07-18
+So-10799,North,Printer Paper,5,21.0,0.0,2026-07-17
+So-10800,West,Notebook Pack,32,12.5,20.0,2026-03-26
+So-10801,West,Headset,21,119.0,249.9,2026-08-20
+So-10802,East,Headset,22,119.0,0.0,2026-01-29
+So-10803,North,Office Chair,37,249.0,921.3,2026-09-20
+So-10804,East,Desk Lamp,32,39.9,0.0,2026-09-21
+So-10805,East,Keyboard,26,89.0,231.4,2026-08-13
+So-10806,Central,Mouse,11,29.5,32.45,2026-07-19
+So-10807,West,Mouse,19,29.5,56.05,2026-04-22
+So-10808,East,Mouse,18,29.5,53.1,2026-08-22
+So-10809,North,Notebook Pack,22,12.5,27.5,2026-08-14
+So-10810,East,Headset,36,119.0,0.0,2026-01-15
+So-10811,West,Keyboard,18,89.0,0.0,2026-03-04
+So-10812,East,Desk Lamp,6,39.9,0.0,2026-01-15
+So-10813,North,Keyboard,23,89.0,204.7,2026-02-20
+So-10814,East,Headset,5,119.0,0.0,2026-06-09
+So-10815,North,Office Chair,12,249.0,0.0,2026-03-31
+So-10816,West,Notebook Pack,12,12.5,7.5,2026-02-08
+So-10817,South,Monitor Stand,12,59.0,0.0,2026-07-05
+So-10818,West,Headset,38,119.0,0.0,2026-02-10
+So-10819,West,Headset,29,119.0,0.0,2026-09-03
+So-10820,East,Monitor Stand,3,59.0,17.7,2026-03-01
+So-10821,East,Monitor Stand,32,59.0,188.8,2026-05-02
+So-10822,West,Monitor Stand,4,59.0,0.0,2026-06-24
+So-10823,South,Headset,29,119.0,172.55,2026-01-15
+So-10824,East,Printer Paper,20,21.0,21.0,2026-02-12
+So-10825,East,Office Chair,6,249.0,149.4,2026-03-17
+So-10826,South,Notebook Pack,38,12.5,0.0,2026-09-29
+So-10827,Central,Mouse,4,29.5,0.0,2026-01-10
+So-10828,South,Printer Paper,20,21.0,0.0,2026-05-14
+So-10829,West,Notebook Pack,17,12.5,0.0,2026-01-14
+So-10830,South,Keyboard,9,89.0,40.05,2026-08-07
+So-10831,West,Headset,1,119.0,0.0,2026-01-08
+So-10832,Central,Office Chair,3,249.0,0.0,2026-08-27
+So-10833,South,Office Chair,19,249.0,473.1,2026-04-30
+So-10834,East,Headset,34,119.0,0.0,2026-07-26
+So-10835,Central,Desk Lamp,9,39.9,0.0,2026-09-27
+So-10836,North,Printer Paper,23,21.0,48.3,2026-09-08
+So-10837,Central,Keyboard,31,89.0,0.0,2026-09-26
+So-10838,Central,Monitor Stand,12,59.0,35.4,2026-06-20
+So-10839,West,Office Chair,23,249.0,572.7,2026-06-10
+So-10840,West,Keyboard,21,89.0,0.0,2026-01-10
+So-10841,West,Printer Paper,28,21.0,29.4,2026-04-19
+So-10842,East,Keyboard,19,89.0,0.0,2026-05-10
+So-10843,North,Notebook Pack,25,12.5,0.0,2026-02-23
+So-10844,South,Printer Paper,8,21.0,0.0,2026-05-02
+So-10845,South,Keyboard,14,89.0,0.0,2026-07-04
+So-10846,West,Notebook Pack,33,12.5,0.0,2026-09-02
+So-10847,West,Keyboard,11,89.0,0.0,2026-06-04
+So-10848,South,Desk Lamp,31,39.9,123.69,2026-06-25
+So-10849,South,Mouse,30,29.5,44.25,2026-04-20
+So-10850,North,Office Chair,22,249.0,0.0,2026-05-08
+So-10851,South,Keyboard,31,89.0,0.0,2026-06-19
+So-10852,East,Keyboard,5,89.0,44.5,2026-09-29
+So-10853,North,Desk Lamp,39,39.9,0.0,2026-08-22
+So-10854,East,Monitor Stand,35,59.0,0.0,2026-01-19
+So-10855,South,Notebook Pack,15,12.5,18.75,2026-08-07
+So-10856,South,Printer Paper,3,21.0,6.3,2026-04-09
+So-10857,South,Office Chair,40,249.0,0.0,2026-09-14
+So-10858,North,Office Chair,21,249.0,0.0,2026-05-27
+So-10859,Central,Monitor Stand,32,59.0,94.4,2026-06-02
+So-10860,Central,Headset,19,119.0,0.0,2026-06-08
+So-10861,Central,Keyboard,30,89.0,0.0,2026-09-19
+So-10862,South,Notebook Pack,12,12.5,7.5,2026-09-05
+So-10863,Central,Notebook Pack,24,12.5,0.0,2026-04-11
+So-10864,South,Desk Lamp,10,39.9,39.9,2026-05-15
+So-10865,North,Headset,34,119.0,0.0,2026-08-19
+So-10866,North,Monitor Stand,9,59.0,0.0,2026-03-08
+So-10867,North,Office Chair,32,249.0,796.8,2026-01-08
+So-10868,East,Mouse,2,29.5,0.0,2026-03-10
+So-10869,West,Keyboard,1,89.0,8.9,2026-07-17
+So-10870,Central,Keyboard,38,89.0,0.0,2026-05-10
+So-10871,South,Keyboard,40,89.0,0.0,2026-08-17
+So-10872,East,Monitor Stand,37,59.0,0.0,2026-07-21
+So-10873,South,Office Chair,31,249.0,0.0,2026-05-04
+So-10874,Central,Desk Lamp,4,39.9,0.0,2026-06-28
+So-10875,West,Keyboard,15,89.0,0.0,2026-09-19
+So-10876,East,Headset,5,119.0,0.0,2026-01-23
+So-10877,South,Monitor Stand,16,59.0,0.0,2026-07-16
+So-10878,East,Mouse,27,29.5,79.65,2026-08-09
+So-10879,North,Mouse,22,29.5,64.9,2026-01-29
+So-10880,Central,Printer Paper,2,21.0,4.2,2026-04-11
+So-10881,South,Office Chair,34,249.0,0.0,2026-08-12
+So-10882,East,Office Chair,27,249.0,336.15,2026-01-19
+So-10883,East,Desk Lamp,9,39.9,0.0,2026-03-02
+So-10884,South,Headset,9,119.0,107.1,2026-03-21
+So-10885,Central,Notebook Pack,30,12.5,0.0,2026-08-31
+So-10886,North,Office Chair,3,249.0,0.0,2026-03-25
+So-10887,North,Printer Paper,26,21.0,0.0,2026-01-28
+So-10888,East,Headset,9,119.0,0.0,2026-08-16
+So-10889,Central,Keyboard,30,89.0,133.5,2026-08-21
+So-10890,North,Keyboard,24,89.0,106.8,2026-04-15
+So-10891,North,Keyboard,9,89.0,40.05,2026-05-08
+So-10892,North,Headset,11,119.0,0.0,2026-09-27
+So-10893,East,Office Chair,30,249.0,0.0,2026-07-11
+So-10894,Central,Keyboard,8,89.0,71.2,2026-04-06
+So-10895,East,Headset,11,119.0,130.9,2026-07-13
+So-10896,West,Mouse,28,29.5,82.6,2026-08-06
+So-10897,East,Desk Lamp,7,39.9,0.0,2026-06-01
+So-10898,South,Notebook Pack,28,12.5,0.0,2026-09-16
+So-10899,South,Keyboard,19,89.0,0.0,2026-01-04
+So-10900,East,Monitor Stand,24,59.0,0.0,2026-06-16
+So-10901,Central,Keyboard,33,89.0,0.0,2026-03-17
+So-10902,Central,Monitor Stand,4,59.0,11.8,2026-03-30
+So-10903,South,Monitor Stand,35,59.0,103.25,2026-01-10
+So-10904,Central,Headset,14,119.0,83.3,2026-04-19
+So-10905,Central,Desk Lamp,10,39.9,0.0,2026-05-31
+So-10906,South,Printer Paper,30,21.0,63.0,2026-08-26
+So-10907,South,Mouse,4,29.5,5.9,2026-01-10
+So-10908,North,Printer Paper,27,21.0,28.35,2026-08-30
+So-10909,North,Printer Paper,16,21.0,33.6,2026-04-26
+So-10910,North,Office Chair,36,249.0,896.4,2026-07-30
+So-10911,Central,Mouse,11,29.5,32.45,2026-01-02
+So-10912,North,Mouse,19,29.5,28.03,2026-07-05
+So-10913,Central,Keyboard,15,89.0,0.0,2026-03-17
+So-10914,West,Keyboard,14,89.0,62.3,2026-07-03
+So-10915,East,Monitor Stand,4,59.0,0.0,2026-07-12
+So-10916,North,Headset,1,119.0,0.0,2026-03-31
+So-10917,South,Keyboard,10,89.0,0.0,2026-08-21
+So-10918,West,Keyboard,40,89.0,0.0,2026-08-20
+So-10919,North,Keyboard,21,89.0,0.0,2026-04-05
+So-10920,North,Desk Lamp,4,39.9,0.0,2026-04-22
+So-10921,North,Desk Lamp,36,39.9,143.64,2026-07-05
+So-10922,Central,Office Chair,38,249.0,0.0,2026-09-27
+So-10923,West,Printer Paper,1,21.0,0.0,2026-03-09
+So-10924,West,Notebook Pack,31,12.5,0.0,2026-04-10
+So-10925,East,Headset,25,119.0,0.0,2026-08-27
+So-10926,South,Mouse,36,29.5,53.1,2026-06-08
+So-10927,West,Office Chair,36,249.0,448.2,2026-06-30
+So-10928,Central,Printer Paper,36,21.0,0.0,2026-01-29
+So-10929,East,Notebook Pack,34,12.5,0.0,2026-06-14
+So-10930,Central,Printer Paper,12,21.0,0.0,2026-07-24
+So-10931,Central,Notebook Pack,38,12.5,23.75,2026-06-21
+So-10932,West,Desk Lamp,29,39.9,0.0,2026-03-15
+So-10933,South,Printer Paper,36,21.0,75.6,2026-06-16
+So-10934,North,Notebook Pack,17,12.5,0.0,2026-09-24
+So-10935,Central,Mouse,13,29.5,0.0,2026-02-08
+So-10936,South,Keyboard,4,89.0,0.0,2026-04-06
+So-10937,South,Desk Lamp,26,39.9,0.0,2026-04-09
+So-10938,East,Headset,11,119.0,130.9,2026-08-06
+So-10939,South,Office Chair,19,249.0,236.55,2026-08-13
+So-10940,Central,Keyboard,14,89.0,0.0,2026-07-14
+So-10941,East,Printer Paper,34,21.0,71.4,2026-08-17
+So-10942,Central,Keyboard,31,89.0,0.0,2026-02-16
+So-10943,Central,Printer Paper,1,21.0,0.0,2026-05-09
+So-10944,Central,Notebook Pack,4,12.5,5.0,2026-05-15
+So-10945,North,Printer Paper,14,21.0,29.4,2026-07-23
+So-10946,Central,Headset,19,119.0,226.1,2026-08-07
+So-10947,East,Printer Paper,28,21.0,0.0,2026-04-15
+So-10948,Central,Office Chair,12,249.0,298.8,2026-06-16
+So-10949,East,Mouse,26,29.5,0.0,2026-06-04
+So-10950,South,Keyboard,36,89.0,0.0,2026-07-19
+So-10951,West,Notebook Pack,35,12.5,0.0,2026-06-12
+So-10952,West,Keyboard,9,89.0,0.0,2026-08-03
+So-10953,West,Notebook Pack,40,12.5,0.0,2026-07-29
+So-10954,East,Office Chair,38,249.0,0.0,2026-05-14
+So-10955,South,Keyboard,8,89.0,0.0,2026-09-02
+So-10956,East,Desk Lamp,5,39.9,0.0,2026-07-21
+So-10957,Central,Notebook Pack,16,12.5,0.0,2026-07-13
+So-10958,South,Keyboard,30,89.0,0.0,2026-08-19
+So-10959,North,Keyboard,40,89.0,0.0,2026-02-01
+So-10960,East,Notebook Pack,26,12.5,0.0,2026-01-23
+So-10961,North,Notebook Pack,5,12.5,0.0,2026-07-14
+So-10962,West,Keyboard,27,89.0,0.0,2026-05-18
+So-10963,East,Notebook Pack,4,12.5,5.0,2026-08-29
+So-10964,Central,Mouse,10,29.5,29.5,2026-06-12
+So-10965,West,Printer Paper,38,21.0,0.0,2026-03-03
+So-10966,Central,Headset,11,119.0,130.9,2026-07-30
+So-10967,Central,Printer Paper,25,21.0,0.0,2026-09-23
+So-10968,South,Desk Lamp,33,39.9,0.0,2026-06-25
+So-10969,North,Monitor Stand,33,59.0,0.0,2026-08-22
+So-10970,South,Office Chair,28,249.0,0.0,2026-04-22
+So-10971,Central,Keyboard,19,89.0,0.0,2026-03-25
+So-10972,West,Headset,40,119.0,0.0,2026-01-02
+So-10973,South,Printer Paper,10,21.0,0.0,2026-08-28
+So-10974,North,Keyboard,1,89.0,0.0,2026-05-28
+So-10975,North,Monitor Stand,5,59.0,14.75,2026-06-29
+So-10976,West,Monitor Stand,15,59.0,88.5,2026-09-19
+So-10977,Central,Printer Paper,28,21.0,0.0,2026-01-16
+So-10978,North,Keyboard,32,89.0,0.0,2026-03-25
+So-10979,Central,Notebook Pack,29,12.5,0.0,2026-05-27
+So-10980,Central,Notebook Pack,1,12.5,0.0,2026-05-19
+So-10981,North,Keyboard,31,89.0,275.9,2026-08-31
+So-10982,East,Printer Paper,40,21.0,0.0,2026-09-27
+So-10983,West,Headset,38,119.0,0.0,2026-03-18
+So-10984,South,Desk Lamp,23,39.9,0.0,2026-08-28
+So-10985,North,Desk Lamp,26,39.9,0.0,2026-03-24
+So-10986,East,Headset,33,119.0,392.7,2026-04-13
+So-10987,South,Mouse,3,29.5,0.0,2026-08-23
+So-10988,West,Mouse,30,29.5,0.0,2026-09-25
+So-10989,South,Notebook Pack,36,12.5,0.0,2026-04-05
+So-10990,North,Desk Lamp,15,39.9,29.93,2026-05-26
+So-10991,East,Notebook Pack,26,12.5,0.0,2026-04-15
+So-10992,South,Keyboard,30,89.0,0.0,2026-06-05
+So-10993,South,Keyboard,39,89.0,173.55,2026-03-02
+So-10994,Central,Monitor Stand,15,59.0,0.0,2026-04-29
+So-10995,South,Notebook Pack,35,12.5,0.0,2026-04-05
+So-10996,North,Mouse,30,29.5,0.0,2026-02-20
+So-10997,East,Monitor Stand,27,59.0,0.0,2026-03-18
+So-10998,Central,Notebook Pack,21,12.5,0.0,2026-04-16
+So-10999,East,Keyboard,28,89.0,0.0,2026-03-10
+So-11000,Central,Mouse,27,29.5,0.0,2026-04-06
+So-11001,West,Monitor Stand,39,59.0,0.0,2026-03-17
+So-11002,West,Monitor Stand,31,59.0,0.0,2026-02-16
+So-11003,South,Headset,23,119.0,136.85,2026-05-22
+So-11004,East,Headset,19,119.0,226.1,2026-03-24
+So-11005,Central,Mouse,9,29.5,0.0,2026-06-30
+So-11006,East,Monitor Stand,10,59.0,0.0,2026-04-29
+So-11007,South,Keyboard,38,89.0,169.1,2026-08-10
+So-11008,East,Headset,5,119.0,29.75,2026-06-11
+So-11009,South,Notebook Pack,9,12.5,11.25,2026-07-22
+So-11010,West,Notebook Pack,7,12.5,0.0,2026-06-14
+So-11011,West,Desk Lamp,-3,39.9,0.0,2026-01-03
+So-11012,Central,Printer Paper,34,21.0,71.4,2026-01-07
+So-11013,East,Notebook Pack,7,12.5,0.0,2026-06-30
+So-11014,South,Desk Lamp,36,39.9,0.0,2026-07-11
+So-11015,South,Monitor Stand,28,59.0,82.6,2026-07-14
+So-11016,North,Mouse,39,29.5,115.05,2026-06-17
+So-11017,South,Printer Paper,39,21.0,0.0,2026-03-03
+So-11018,East,Office Chair,6,249.0,0.0,2026-04-01
+So-11019,Central,Keyboard,6,89.0,0.0,2026-08-07
+So-11020,West,Notebook Pack,3,12.5,3.75,2026-06-09
+So-11021,Central,Desk Lamp,23,39.9,0.0,2026-08-23
+So-11022,Central,Monitor Stand,33,59.0,0.0,2026-06-11
+So-11023,West,Desk Lamp,22,39.9,0.0,2026-03-07
+So-11024,North,Desk Lamp,39,39.9,155.61,2026-04-07
+So-11025,Central,Desk Lamp,23,39.9,0.0,2026-01-20
+So-11026,South,Mouse,15,29.5,0.0,2026-07-31
+So-11027,South,Keyboard,7,89.0,62.3,2026-03-16
+So-11028,North,Printer Paper,23,21.0,0.0,2026-03-04
+So-11029,North,Desk Lamp,23,39.9,0.0,2026-01-02
+So-11030,South,Headset,25,119.0,0.0,2026-06-06
+So-11031,East,Office Chair,24,249.0,597.6,2026-06-01
+So-11032,Central,Printer Paper,39,21.0,0.0,2026-03-27
+So-11033,Central,Office Chair,4,249.0,0.0,2026-08-07
+So-11034,East,Keyboard,16,89.0,0.0,2026-05-05
+So-11035,Central,Monitor Stand,10,59.0,29.5,2026-08-03
+So-11036,North,Monitor Stand,15,59.0,0.0,2026-02-03
+So-11037,West,Printer Paper,22,21.0,0.0,2026-01-06
+So-11038,North,Monitor Stand,1,59.0,0.0,2026-02-17
+So-11039,West,Mouse,25,29.5,73.75,2026-06-24
+So-11040,North,Monitor Stand,26,59.0,0.0,2026-07-24
+So-11041,West,Office Chair,1,249.0,24.9,2026-03-08
+So-11042,South,Notebook Pack,15,12.5,0.0,2026-07-06
+So-11043,East,Keyboard,28,89.0,0.0,2026-06-20
+So-11044,North,Notebook Pack,35,12.5,0.0,2026-08-06
+So-11045,East,Printer Paper,30,21.0,0.0,2026-06-15
+So-11046,South,Mouse,31,29.5,0.0,2026-07-16
+So-11047,South,Desk Lamp,22,39.9,87.78,2026-05-08
+So-11048,West,Printer Paper,9,21.0,0.0,2026-02-11
+So-11049,East,Notebook Pack,16,12.5,0.0,2026-02-18
+So-11050,West,Mouse,11,29.5,16.23,2026-02-21
+So-11051,South,Headset,33,119.0,0.0,2026-01-08
+So-11052,East,Office Chair,35,249.0,0.0,2026-01-31
+So-11053,South,Mouse,30,29.5,88.5,2026-04-16
+So-11054,East,Notebook Pack,3,12.5,1.88,2026-02-06
+So-11055,Central,Desk Lamp,18,39.9,0.0,2026-02-07
+So-11056,East,Printer Paper,34,21.0,0.0,2026-07-24
+So-11057,North,Printer Paper,35,21.0,0.0,2026-03-31
+So-11058,North,Office Chair,13,249.0,0.0,2026-01-30
+So-11059,East,Headset,12,119.0,0.0,2026-01-09
+So-11060,Central,Keyboard,14,89.0,0.0,2026-07-31
+So-11061,Central,Mouse,14,29.5,0.0,2026-06-25
+So-11062,West,Keyboard,20,89.0,0.0,2026-08-23
+So-11063,South,Office Chair,2,249.0,0.0,2026-06-04
+So-11064,South,Desk Lamp,34,39.9,0.0,2026-09-26
+So-11065,Central,Headset,25,119.0,0.0,2026-07-03
+So-11066,North,Office Chair,25,249.0,0.0,2026-01-26
+So-11067,South,Monitor Stand,10,59.0,59.0,2026-07-23
+So-11068,Central,Headset,14,119.0,0.0,2026-01-18
+So-11069,North,Desk Lamp,18,39.9,0.0,2026-03-06
+So-11070,West,Mouse,18,29.5,26.55,2026-03-21
+So-11071,East,Desk Lamp,20,39.9,0.0,2026-08-15
+So-11072,East,Notebook Pack,26,12.5,0.0,2026-02-18
+So-11073,South,Printer Paper,26,21.0,0.0,2026-07-01
+So-11074,East,Monitor Stand,23,59.0,135.7,2026-04-23
+So-11075,South,Office Chair,23,249.0,286.35,2026-04-04
+So-11076,East,Desk Lamp,25,39.9,0.0,2026-02-13
+So-11077,Central,Notebook Pack,34,12.5,42.5,2026-01-08
+So-11078,West,Mouse,1,29.5,0.0,2026-05-17
+So-11079,North,Office Chair,27,249.0,0.0,2026-02-23
+So-11080,East,Monitor Stand,30,59.0,88.5,2026-07-15
+So-11081,Central,Mouse,38,29.5,0.0,2026-05-10
+So-11082,Central,Keyboard,2,89.0,0.0,2026-02-07
+So-11083,North,Notebook Pack,24,12.5,0.0,2026-03-07
+So-11084,West,Keyboard,19,89.0,0.0,2026-06-02
+So-11085,West,Mouse,38,29.5,0.0,2026-06-24
+So-11086,North,Notebook Pack,16,12.5,0.0,2026-03-17
+So-11087,North,Headset,5,119.0,29.75,2026-01-14
+So-11088,Central,Monitor Stand,1371,59.0,0.0,2026-07-20
+So-11089,South,Notebook Pack,15,12.5,9.38,2026-07-26
+So-11090,East,Notebook Pack,39,12.5,0.0,2026-03-05
+So-11091,South,Printer Paper,29,21.0,30.45,2026-07-13
+So-11092,South,Monitor Stand,20,59.0,0.0,2026-08-09
+So-11093,North,Monitor Stand,20,59.0,118.0,2026-05-06
+So-11094,Central,Monitor Stand,3,59.0,0.0,2026-04-15
+So-11095,North,Desk Lamp,17,39.9,33.91,2026-04-07
+So-11096,West,Printer Paper,34,21.0,0.0,2026-01-09
+So-11097,East,Notebook Pack,37,12.5,0.0,2026-05-18
+So-11098,East,Keyboard,7,89.0,31.15,2026-07-10
+So-11099,North,Printer Paper,10,0.0,0.0,2026-05-08
+So-11100,West,Notebook Pack,9,12.5,0.0,2026-07-21
+So-11101,East,Monitor Stand,6,59.0,35.4,2026-04-01
+So-11102,North,Desk Lamp,11,39.9,21.95,2026-02-28
+So-11103,West,Headset,10,119.0,0.0,2026-05-06
+So-11104,North,Keyboard,5,89.0,0.0,2026-03-11
+So-11105,Central,Keyboard,21,89.0,186.9,2026-07-16
+So-11106,Central,Keyboard,12,89.0,0.0,2026-05-25
+So-11107,South,Headset,29,119.0,0.0,2026-07-04
+So-11108,Central,Monitor Stand,35,59.0,0.0,2026-04-15
+So-11109,North,Mouse,2,29.5,0.0,2026-03-23
+So-11110,East,Notebook Pack,34,12.5,0.0,2026-06-18
+So-11111,Central,Desk Lamp,19,39.9,0.0,2026-08-31
+So-11112,West,Printer Paper,15,21.0,15.75,2026-05-27
+So-11113,South,Printer Paper,9,21.0,0.0,2026-09-18
+So-11114,South,Headset,3,119.0,17.85,2026-01-29
+So-11115,South,Printer Paper,22,21.0,0.0,2026-02-17
+So-11116,North,Printer Paper,35,21.0,0.0,2026-06-19
+So-11117,South,Mouse,8,29.5,11.8,2026-05-17
+So-11118,South,Mouse,37,29.5,0.0,2026-04-07
+So-11119,South,Monitor Stand,6,59.0,35.4,2026-06-02
+So-11120,North,Desk Lamp,1,39.9,0.0,2026-08-15
+So-11121,South,Desk Lamp,21,39.9,0.0,2026-08-21
+So-11122,West,Office Chair,27,249.0,336.15,2026-03-28
+So-11123,West,Printer Paper,19,21.0,39.9,2026-01-17
+So-11124,North,Headset,31,119.0,0.0,2026-03-29
+So-11125,West,Monitor Stand,28,59.0,0.0,2026-05-19
+So-11126,North,Desk Lamp,15,39.9,0.0,2026-08-06
+So-11127,East,Keyboard,21,89.0,186.9,2026-01-23
+So-11128,West,Headset,30,119.0,0.0,2026-08-25
+So-11129,Central,Office Chair,14,249.0,0.0,2026-02-20
+So-11130,West,Keyboard,27,89.0,120.15,2026-06-06
+So-11131,North,Keyboard,1,89.0,8.9,2026-06-18
+So-11132,Central,Monitor Stand,33,59.0,0.0,2026-05-22
+So-11133,Central,Printer Paper,13,21.0,0.0,2026-03-26
+So-11134,North,Desk Lamp,1,39.9,0.0,2026-04-09
+So-11135,South,Monitor Stand,21,59.0,0.0,2026-06-13
+So-11136,North,Monitor Stand,40,59.0,236.0,2026-05-14
+So-11137,North,Notebook Pack,16,12.5,0.0,2026-01-10
+So-11138,Central,Headset,1,119.0,11.9,2026-07-30
+So-11139,North,Headset,14,119.0,0.0,2026-06-30
+So-11140,West,Mouse,13,29.5,0.0,2026-04-30
+So-11141,South,Headset,19,119.0,0.0,2026-06-13
+So-11142,South,Headset,27,119.0,321.3,2026-01-08
+So-11143,West,Printer Paper,28,21.0,0.0,2026-05-01
+So-11144,North,Notebook Pack,12,12.5,7.5,2026-01-15
+So-11145,North,Mouse,38,29.5,0.0,2026-07-13
+So-11146,South,Office Chair,20,249.0,0.0,2026-04-22
+So-11147,East,Keyboard,11,89.0,48.95,2026-09-25
+So-11148,North,Printer Paper,38,21.0,0.0,2026-05-09
+So-11149,South,Monitor Stand,33,59.0,0.0,2026-02-27
+So-11150,West,Notebook Pack,38,12.5,0.0,2026-05-19
+So-11151,West,Notebook Pack,3,12.5,0.0,2026-07-06
+So-11152,Central,Mouse,24,29.5,35.4,2026-09-01
+So-11153,South,Printer Paper,23,21.0,48.3,2026-08-14
+So-11154,South,Desk Lamp,16,39.9,0.0,2026-01-08
+So-11155,Central,Desk Lamp,39,39.9,77.81,2026-03-03
+So-11156,East,Desk Lamp,5,39.9,0.0,2026-01-05
+So-11157,South,Mouse,35,29.5,103.25,2026-02-06
+So-11158,North,Monitor Stand,30,59.0,0.0,2026-02-05
+So-11159,North,Notebook Pack,8,12.5,0.0,2026-04-23
+So-11160,South,Monitor Stand,39,59.0,230.1,2026-04-07
+So-11161,East,Keyboard,4,89.0,17.8,2026-03-22
+So-11162,North,Monitor Stand,18,59.0,0.0,2026-01-10
+So-11163,North,Mouse,16,29.5,0.0,2026-03-11
+So-11164,Central,Mouse,39,29.5,115.05,2026-09-17
+So-11165,East,Printer Paper,5,21.0,0.0,2026-04-07
+So-11166,North,Mouse,7,29.5,0.0,2026-06-03
+So-11167,West,Monitor Stand,7,59.0,0.0,2026-05-23
+So-11168,West,Keyboard,21,89.0,0.0,2026-06-01
+So-11169,North,Keyboard,28,89.0,0.0,2026-05-30
+So-11170,North,Monitor Stand,36,59.0,0.0,2026-01-17
+So-11171,West,Office Chair,12,249.0,0.0,2026-03-10
+So-11172,West,Headset,17,119.0,202.3,2026-04-20
+So-11173,West,Keyboard,22,89.0,0.0,2026-07-03
+So-11174,Central,Monitor Stand,27,59.0,79.65,2026-04-25
+So-11175,North,Office Chair,13,249.0,161.85,2026-03-24
+So-11176,Central,Headset,3,119.0,0.0,2026-05-09
+So-11177,North,Printer Paper,19,21.0,39.9,2026-01-31
+So-11178,North,Headset,25,119.0,297.5,2026-04-21
+So-11179,East,Monitor Stand,33,59.0,194.7,2026-03-16
+So-11180,Central,Keyboard,1,89.0,8.9,2026-04-07
+So-11181,East,Monitor Stand,35,59.0,0.0,2026-03-07
+So-11182,Central,Office Chair,3,249.0,0.0,2026-09-22
+So-11183,South,Office Chair,18,249.0,224.1,2026-01-29
+So-11184,West,Notebook Pack,27,12.5,0.0,2026-06-23
+So-11185,West,Notebook Pack,3,12.5,0.0,2026-04-13
+So-11186,East,Office Chair,19,249.0,0.0,2026-07-13
+So-11187,East,Mouse,20,29.5,59.0,2026-09-06
+So-11188,West,Headset,30,119.0,0.0,2026-06-10
+So-11189,Central,Headset,25,119.0,0.0,2026-05-17
+So-11190,South,Notebook Pack,4,12.5,0.0,2026-09-25
+So-11191,East,Notebook Pack,37,12.5,23.12,2026-05-15
+So-11192,Central,Keyboard,26,89.0,0.0,2026-03-28
+So-11193,South,Mouse,17,29.5,0.0,2026-03-06
+So-11194,West,Headset,39,119.0,0.0,2026-06-26
+So-11195,Central,Desk Lamp,36,39.9,143.64,2026-07-07
+So-11196,West,Headset,27,119.0,0.0,2026-07-18
+So-11197,South,Printer Paper,20,21.0,0.0,2026-07-04
+So-11198,South,Printer Paper,28,21.0,0.0,2026-08-01
+So-11199,South,Monitor Stand,1,59.0,0.0,2026-08-13
+So-11200,South,Mouse,6,29.5,0.0,2026-04-24
+So-11201,Central,Printer Paper,16,21.0,0.0,2026-07-19
+So-11202,South,Office Chair,37,249.0,0.0,2026-08-09
+So-11203,South,Office Chair,16,249.0,398.4,2026-02-08
+So-11204,East,Monitor Stand,15,59.0,0.0,2026-02-20
+So-11205,North,Keyboard,35,89.0,155.75,2026-03-17
+So-11206,North,Office Chair,4,249.0,99.6,2026-01-10
+So-11207,Central,Headset,11,119.0,0.0,2026-01-24
+So-11208,Central,Desk Lamp,17,39.9,0.0,2026-04-30
+So-11209,North,Notebook Pack,14,12.5,8.75,2026-08-17
+So-11210,West,Office Chair,37,249.0,0.0,2026-04-20
+So-11211,Central,Printer Paper,40,21.0,42.0,2026-07-18
+So-11212,South,Printer Paper,11,21.0,11.55,2026-07-20
+So-11213,North,Headset,25,119.0,0.0,2026-04-09
+So-11214,Central,Headset,12,119.0,0.0,2026-09-20
+So-11215,Central,Printer Paper,34,21.0,0.0,2026-03-11
+So-11216,Central,Keyboard,23,89.0,204.7,2026-01-10
+So-11217,South,Printer Paper,25,21.0,52.5,2026-08-18
+So-11218,South,Office Chair,27,249.0,0.0,2026-09-08
+So-11219,South,Keyboard,28,89.0,0.0,2026-03-30
+So-11220,West,Office Chair,31,249.0,0.0,2026-09-04
+So-11221,North,Keyboard,5,89.0,44.5,2026-01-31
+So-11222,West,Notebook Pack,18,12.5,0.0,2026-02-11
+So-11223,Central,Office Chair,18,249.0,448.2,2026-08-28
+So-11224,South,Notebook Pack,39,12.5,0.0,2026-08-31
+So-11225,South,Printer Paper,19,21.0,0.0,2026-09-15
+So-11226,South,Headset,7,119.0,0.0,2026-08-28
+So-11227,South,Desk Lamp,38,39.9,0.0,2026-08-21
+So-11228,North,Notebook Pack,8,12.5,5.0,2026-01-22
+So-11229,East,Monitor Stand,7,59.0,0.0,2026-05-16
+So-11230,East,Mouse,34,29.5,0.0,2026-09-10
+So-11231,Central,Desk Lamp,38,39.9,0.0,2026-09-09
+So-11232,West,Headset,24,119.0,0.0,2026-08-15
+So-11233,West,Printer Paper,36,21.0,0.0,2026-04-30
+So-11234,North,Office Chair,31,249.0,0.0,2026-04-24
+So-11235,East,Office Chair,38,249.0,0.0,2026-04-19
+So-11236,Central,Mouse,2,29.5,2.95,2026-08-13
+So-11237,Central,Keyboard,27,89.0,240.3,2026-08-19
+So-11238,Central,Desk Lamp,3,39.9,5.98,2026-08-18
+So-11239,Central,Monitor Stand,21,59.0,61.95,2026-05-11
+So-11240,West,Headset,20,119.0,0.0,2026-07-08
+So-11241,Central,Mouse,31,29.5,0.0,2026-01-08
+So-11242,Central,Printer Paper,8,21.0,8.4,2026-03-01
+So-11243,South,Headset,8,119.0,95.2,2026-04-09
+So-11244,East,Printer Paper,40,21.0,0.0,2026-01-28
+So-11245,East,Office Chair,30,249.0,0.0,2026-06-17
+So-11246,South,Mouse,39,29.5,0.0,2026-05-25
+So-11247,Central,Headset,34,119.0,0.0,2026-03-23
+So-11248,West,Mouse,7,29.5,0.0,2026-09-11
+So-11249,South,Mouse,19,29.5,0.0,2026-09-02
+So-11250,North,Printer Paper,13,21.0,0.0,2026-07-22
+So-11251,North,Keyboard,34,89.0,302.6,2026-03-20
+So-11252,North,Keyboard,40,89.0,0.0,2026-02-14
+So-11253,East,Headset,6,119.0,35.7,2026-03-21
+So-11254,Central,Mouse,27,29.5,0.0,2026-08-21
+So-11255,South,Printer Paper,5,21.0,10.5,2026-07-11
+So-11256,West,Office Chair,17,249.0,0.0,2026-07-25
+So-11257,West,Monitor Stand,13,59.0,38.35,2026-07-09
+So-11258,South,Headset,39,119.0,0.0,2026-06-25
+So-11259,South,Notebook Pack,30,12.5,0.0,2026-04-25
+So-11260,South,Mouse,35,29.5,51.62,2026-03-28
+So-11261,West,Office Chair,5,249.0,0.0,2026-06-20
+So-11262,South,Printer Paper,38,21.0,0.0,2026-04-25
+So-11263,Central,Printer Paper,7,21.0,0.0,2026-07-03
+So-11264,West,Headset,38,119.0,452.2,2026-01-08
+So-11265,East,Headset,5,119.0,0.0,2026-06-09
+So-11266,South,Mouse,40,29.5,0.0,2026-07-20
+So-11267,South,Headset,19,119.0,0.0,2026-07-16
+So-11268,Central,Notebook Pack,22,12.5,13.75,2026-07-13
+So-11269,Central,Notebook Pack,3,12.5,0.0,2026-07-16
+So-11270,West,Keyboard,31,89.0,0.0,2026-09-20
+So-11271,South,Desk Lamp,32,39.9,0.0,2026-02-17
+So-11272,South,Office Chair,32,249.0,398.4,2026-06-30
+So-11273,East,Printer Paper,32,21.0,0.0,2026-03-24
+So-11274,Central,Office Chair,9,249.0,0.0,2026-01-02
+So-11275,South,Desk Lamp,6,39.9,11.97,2026-04-12
+So-11276,North,Monitor Stand,11,59.0,0.0,2026-01-03
+So-11277,North,Notebook Pack,13,12.5,8.12,2026-03-14
+So-11278,East,Mouse,28,29.5,0.0,2026-03-15
+So-11279,East,Desk Lamp,4,39.9,0.0,2026-07-14
+So-11280,West,Printer Paper,35,21.0,0.0,2026-06-29
+So-11281,East,Keyboard,16,89.0,0.0,2026-09-23
+So-11282,West,Office Chair,11,249.0,273.9,2026-06-09
+So-11283,West,Headset,3,119.0,35.7,2026-09-05
+So-11284,Central,Monitor Stand,29,59.0,0.0,2026-04-29
+So-11285,North,Desk Lamp,37,39.9,0.0,2026-03-26
+So-11286,North,Mouse,23,29.5,67.85,2026-07-17
+So-11287,North,Printer Paper,7,21.0,14.7,2026-07-24
+So-11288,North,Printer Paper,40,21.0,0.0,2026-03-27
+So-11289,West,Monitor Stand,-3,59.0,0.0,2026-04-12
+So-11290,West,Printer Paper,7,21.0,0.0,2026-07-06
+So-11291,West,Mouse,11,29.5,0.0,2026-07-01
+So-11292,East,Mouse,12,29.5,17.7,2026-09-05
+So-11293,West,Keyboard,5,89.0,0.0,2026-03-08
+So-11294,West,Office Chair,29,249.0,361.05,2026-01-21
+So-11295,West,Desk Lamp,34,39.9,67.83,2026-06-20
+So-11296,West,Office Chair,35,249.0,871.5,2026-01-22
+So-11297,Central,Monitor Stand,24,59.0,0.0,2026-03-17
+So-11298,Central,Mouse,26,29.5,0.0,2026-03-14
+So-11299,Central,Office Chair,21,249.0,0.0,2026-08-10
+So-11300,Central,Keyboard,37,89.0,0.0,2026-03-03
+So-11301,West,Monitor Stand,35,59.0,0.0,2026-06-10
+So-11302,West,Printer Paper,5,21.0,10.5,2026-04-05
+So-11303,South,Keyboard,23,89.0,0.0,2026-06-02
+So-11304,East,Desk Lamp,23,39.9,0.0,2026-02-16
+So-11305,West,Monitor Stand,22,59.0,129.8,2026-05-15
+So-11306,West,Mouse,29,29.5,0.0,2026-04-13
+So-11307,North,Keyboard,31,89.0,137.95,2026-04-03
+So-11308,Central,Office Chair,15,249.0,0.0,2026-06-01
+So-11309,West,Keyboard,12,89.0,0.0,2026-06-24
+So-11310,North,Monitor Stand,4,59.0,0.0,2026-01-21
+So-11311,East,Printer Paper,2,21.0,0.0,2026-08-16
+So-11312,North,Headset,1427,119.0,0.0,2026-02-04
+So-11313,South,Monitor Stand,20,59.0,59.0,2026-02-04
+So-11314,North,Notebook Pack,33,12.5,0.0,2026-03-24
+So-11315,Central,Headset,11,119.0,0.0,2026-09-14
+So-11316,North,Desk Lamp,10,39.9,0.0,2026-09-16
+So-11317,Central,Office Chair,34,249.0,846.6,2026-05-19
+So-11318,Central,Notebook Pack,24,12.5,0.0,2026-06-19
+So-11319,West,Monitor Stand,21,59.0,61.95,2026-07-08
+So-11320,East,Keyboard,17,89.0,0.0,2026-01-04
+So-11321,West,Monitor Stand,20,59.0,0.0,2026-08-30
+So-11322,East,Notebook Pack,29,12.5,0.0,2026-01-22
+So-11323,West,Keyboard,2,89.0,17.8,2026-02-27
+So-11324,Central,Notebook Pack,16,12.5,0.0,2026-03-16
+So-11325,Central,Office Chair,15,249.0,0.0,2026-05-23
+So-11326,West,Keyboard,33,89.0,0.0,2026-01-31
+So-11327,North,Notebook Pack,12,12.5,0.0,2026-02-14
+So-11328,East,Office Chair,35,249.0,0.0,2026-08-25
+So-11329,West,Printer Paper,21,21.0,0.0,2026-09-04
+So-11330,East,Notebook Pack,11,12.5,13.75,2026-08-22
+So-11331,West,Headset,11,119.0,0.0,2026-08-21
+So-11332,Central,Keyboard,33,89.0,0.0,2026-03-10
+So-11333,West,Headset,15,119.0,0.0,2026-03-07
+So-11334,Central,Keyboard,16,89.0,0.0,2026-05-03
+So-11335,East,Keyboard,19,89.0,0.0,2026-08-13
+So-11336,East,Notebook Pack,2,12.5,1.25,2026-07-03
+So-11337,North,Desk Lamp,27,39.9,53.87,2026-04-01
+So-11338,West,Desk Lamp,22,39.9,0.0,2026-03-21
+So-11339,South,Monitor Stand,21,59.0,123.9,2026-03-09
+So-11340,West,Office Chair,38,249.0,0.0,2026-04-17
+So-11341,North,Desk Lamp,3,39.9,5.98,2026-01-14
+So-11342,Central,Notebook Pack,8,12.5,10.0,2026-09-25
+So-11343,North,Office Chair,22,249.0,0.0,2026-03-07
+So-11344,North,Office Chair,13,249.0,161.85,2026-08-18
+So-11345,West,Notebook Pack,28,12.5,35.0,2026-02-20
+So-11346,North,Headset,7,119.0,0.0,2026-04-30
+So-11347,South,Notebook Pack,10,12.5,0.0,2026-08-15
+So-11348,North,Printer Paper,38,21.0,0.0,2026-04-26
+So-11349,North,Keyboard,26,89.0,231.4,2026-06-22
+So-11350,North,Keyboard,2,0.0,0.0,2026-01-20
+So-11351,East,Mouse,16,29.5,0.0,2026-08-16
+So-11352,West,Mouse,9,29.5,26.55,2026-03-25
+So-11353,West,Headset,21,119.0,0.0,2026-02-04
+So-11354,North,Keyboard,33,89.0,0.0,2026-05-20
+So-11355,Central,Keyboard,12,89.0,106.8,2026-02-19
+So-11356,Central,Mouse,39,29.5,0.0,2026-05-22
+So-11357,North,Notebook Pack,12,12.5,0.0,2026-03-06
+So-11358,East,Notebook Pack,13,12.5,0.0,2026-07-06
+So-11359,West,Notebook Pack,38,12.5,0.0,2026-06-24
+So-11360,South,Mouse,33,29.5,0.0,2026-07-26
+So-11361,West,Headset,14,119.0,83.3,2026-06-09
+So-11362,North,Office Chair,1,249.0,12.45,2026-08-30
+So-11363,Central,Monitor Stand,4,59.0,23.6,2026-05-18
+So-11364,South,Monitor Stand,29,59.0,0.0,2026-05-04
+So-11365,South,Keyboard,12,89.0,0.0,2026-07-05
+So-11366,North,Printer Paper,20,21.0,21.0,2026-07-23
+So-11367,West,Headset,27,119.0,0.0,2026-09-16
+So-11368,East,Office Chair,25,249.0,622.5,2026-07-31
+So-11369,East,Monitor Stand,36,59.0,106.2,2026-09-13
+So-11370,South,Mouse,35,29.5,51.62,2026-05-14
+So-11371,East,Desk Lamp,25,39.9,0.0,2026-01-25
+So-11372,South,Headset,2,119.0,23.8,2026-03-13
+So-11373,East,Headset,22,119.0,130.9,2026-06-13
+So-11374,West,Office Chair,5,249.0,0.0,2026-03-07
+So-11375,Central,Headset,39,119.0,0.0,2026-02-13
+So-11376,South,Notebook Pack,17,12.5,0.0,2026-05-20
+So-11377,Central,Keyboard,20,89.0,0.0,2026-02-22
+So-11378,South,Desk Lamp,2,39.9,0.0,2026-02-12
+So-11379,South,Monitor Stand,15,59.0,88.5,2026-05-05
+So-11380,West,Notebook Pack,36,12.5,22.5,2026-02-04
+So-11381,West,Printer Paper,36,21.0,0.0,2026-09-24
+So-11382,North,Mouse,35,29.5,0.0,2026-06-08
+So-11383,Central,Printer Paper,21,21.0,22.05,2026-05-05
+So-11384,East,Keyboard,1,89.0,0.0,2026-02-19
+So-11385,Central,Office Chair,3,249.0,0.0,2026-08-16
+So-11386,South,Monitor Stand,8,59.0,0.0,2026-07-09
+So-11387,West,Keyboard,31,89.0,137.95,2026-01-20
+So-11388,West,Printer Paper,33,21.0,0.0,2026-09-08
+So-11389,South,Desk Lamp,3,39.9,5.98,2026-05-14
+So-11390,Central,Mouse,31,29.5,0.0,2026-04-05
+So-11391,East,Printer Paper,20,21.0,42.0,2026-08-19
+So-11392,East,Printer Paper,10,21.0,21.0,2026-02-27
+So-11393,South,Keyboard,36,89.0,320.4,2026-01-28
+So-11394,South,Desk Lamp,20,39.9,0.0,2026-03-12
+So-11395,Central,Notebook Pack,7,12.5,0.0,2026-07-11
+So-11396,East,Notebook Pack,38,12.5,23.75,2026-07-26
+So-11397,East,Printer Paper,15,21.0,15.75,2026-07-16
+So-11398,Central,Office Chair,23,249.0,0.0,2026-01-06
+So-11399,South,Desk Lamp,17,39.9,0.0,2026-04-16
+So-11400,Central,Monitor Stand,40,59.0,0.0,2026-09-04
+So-11401,Central,Desk Lamp,6,39.9,0.0,2026-06-21
+So-11402,Central,Desk Lamp,35,39.9,139.65,2026-08-28
+So-11403,North,Mouse,33,29.5,0.0,2026-07-31
+So-11404,South,Desk Lamp,34,39.9,0.0,2026-01-22
+So-11405,North,Desk Lamp,27,39.9,0.0,2026-09-05
+So-11406,North,Monitor Stand,1,59.0,5.9,2026-01-30
+So-11407,Central,Notebook Pack,2,12.5,1.25,2026-09-02
+So-11408,North,Notebook Pack,18,12.5,22.5,2026-02-20
+So-11409,West,Desk Lamp,16,39.9,63.84,2026-08-10
+So-11410,West,Desk Lamp,20,39.9,79.8,2026-08-05
+So-11411,North,Printer Paper,32,21.0,67.2,2026-08-17
+So-11412,East,Mouse,17,29.5,0.0,2026-09-07
+So-11413,West,Mouse,11,29.5,0.0,2026-05-10
+So-11414,West,Office Chair,17,249.0,0.0,2026-06-18
+So-11415,South,Notebook Pack,6,12.5,3.75,2026-07-13
+So-11416,North,Headset,13,119.0,77.35,2026-08-12
+So-11417,West,Printer Paper,39,21.0,0.0,2026-01-22
+So-11418,North,Office Chair,22,249.0,0.0,2026-06-18
+So-11419,North,Notebook Pack,18,12.5,22.5,2026-01-05
+So-11420,North,Mouse,11,29.5,32.45,2026-06-02
+So-11421,East,Desk Lamp,19,39.9,75.81,2026-08-14
+So-11422,South,Desk Lamp,15,39.9,0.0,2026-03-29
+So-11423,South,Desk Lamp,31,39.9,123.69,2026-04-05
+So-11424,South,Office Chair,15,249.0,186.75,2026-01-28
+So-11425,Central,Mouse,40,29.5,0.0,2026-08-16
+So-11426,West,Mouse,23,29.5,0.0,2026-07-15
+So-11427,West,Mouse,9,29.5,26.55,2026-08-25
+So-11428,Central,Office Chair,26,249.0,647.4,2026-07-28
+So-11429,North,Printer Paper,37,21.0,0.0,2026-03-22
+So-11430,North,Printer Paper,27,21.0,0.0,2026-02-04
+So-11431,East,Mouse,5,29.5,14.75,2026-01-21
+So-11432,South,Notebook Pack,25,12.5,0.0,2026-09-27
+So-11433,East,Keyboard,5,89.0,44.5,2026-09-06
+So-11434,South,Notebook Pack,10,12.5,0.0,2026-02-13
+So-11435,South,Keyboard,14,89.0,124.6,2026-03-30
+So-11436,East,Notebook Pack,40,12.5,0.0,2026-03-07
+So-11437,North,Office Chair,23,249.0,572.7,2026-08-14
+So-11438,East,Headset,2,119.0,23.8,2026-08-04
+So-11439,West,Notebook Pack,6,12.5,3.75,2026-05-26
+So-11440,East,Office Chair,25,249.0,0.0,2026-06-27
+So-11441,Central,Printer Paper,20,21.0,42.0,2026-07-21
+So-11442,North,Notebook Pack,15,12.5,0.0,2026-03-23
+So-11443,South,Desk Lamp,15,39.9,29.93,2026-02-26
+So-11444,West,Notebook Pack,5,12.5,6.25,2026-01-06
+So-11445,North,Desk Lamp,-2,39.9,0.0,2026-03-08
+So-11446,Central,Printer Paper,25,21.0,0.0,2026-04-10
+So-11447,East,Desk Lamp,20,39.9,0.0,2026-03-09
+So-11448,South,Headset,27,119.0,0.0,2026-03-11
+So-11449,West,Monitor Stand,8,59.0,0.0,2026-08-18
+So-11450,West,Keyboard,34,89.0,0.0,2026-03-20
+So-11451,West,Printer Paper,9,21.0,0.0,2026-02-25
+So-11452,North,Desk Lamp,1,39.9,3.99,2026-03-20
+So-11453,North,Desk Lamp,17,39.9,0.0,2026-09-22
+So-11454,West,Monitor Stand,12,59.0,0.0,2026-07-11
+So-11455,Central,Headset,18,119.0,0.0,2026-01-05
+So-11456,North,Monitor Stand,25,59.0,73.75,2026-01-29
+So-11457,Central,Office Chair,28,249.0,0.0,2026-07-08
+So-11458,East,Office Chair,33,249.0,0.0,2026-07-25
+So-11459,West,Monitor Stand,22,59.0,0.0,2026-08-22
+So-11460,East,Printer Paper,36,21.0,0.0,2026-06-30
+So-11461,Central,Keyboard,12,89.0,0.0,2026-07-21
+So-11462,South,Keyboard,5,89.0,22.25,2026-04-08
+So-11463,North,Monitor Stand,5,59.0,0.0,2026-01-05
+So-11464,East,Headset,9,119.0,0.0,2026-06-27
+So-11465,Central,Notebook Pack,40,12.5,0.0,2026-07-10
+So-11466,South,Headset,20,119.0,0.0,2026-01-23
+So-11467,South,Mouse,21,29.5,0.0,2026-01-02
+So-11468,West,Desk Lamp,21,39.9,41.9,2026-07-17
+So-11469,Central,Notebook Pack,24,12.5,0.0,2026-07-08
+So-11470,East,Monitor Stand,38,59.0,112.1,2026-05-29
+So-11471,Central,Office Chair,36,249.0,0.0,2026-06-15
+So-11472,South,Mouse,26,29.5,76.7,2026-08-03
+So-11473,North,Keyboard,13,89.0,0.0,2026-05-08
+So-11474,South,Headset,39,119.0,232.05,2026-06-20
+So-11475,East,Keyboard,28,89.0,0.0,2026-01-14
+So-11476,West,Keyboard,4,89.0,17.8,2026-05-12
+So-11477,South,Keyboard,37,0.0,164.65,2026-02-25
+So-11478,Central,Monitor Stand,28,59.0,0.0,2026-01-22
+So-11479,West,Printer Paper,25,21.0,26.25,2026-06-22
+So-11480,South,Keyboard,37,89.0,329.3,2026-07-06
+So-11481,South,Printer Paper,17,21.0,35.7,2026-07-15
+So-11482,South,Office Chair,15,249.0,0.0,2026-03-17
+So-11483,South,Desk Lamp,35,39.9,69.83,2026-09-17
+So-11484,East,Monitor Stand,6,59.0,0.0,2026-05-27
+So-11485,South,Desk Lamp,16,39.9,31.92,2026-08-03
+So-11486,North,Keyboard,5,89.0,0.0,2026-09-04
+So-11487,South,Desk Lamp,24,39.9,47.88,2026-04-29
+So-11488,West,Office Chair,22,249.0,0.0,2026-06-09
+So-11489,Central,Notebook Pack,39,12.5,24.38,2026-05-22
+So-11490,North,Mouse,17,29.5,0.0,2026-01-26
+So-11491,West,Office Chair,11,249.0,0.0,2026-09-05
+So-11492,West,Office Chair,37,249.0,921.3,2026-07-21
+So-11493,North,Printer Paper,8,21.0,8.4,2026-08-10
+So-11494,Central,Keyboard,34,89.0,302.6,2026-03-06
+So-11495,South,Headset,3,119.0,35.7,2026-09-24
+So-11496,North,Notebook Pack,4,12.5,0.0,2026-09-11
+So-11497,North,Headset,30,119.0,357.0,2026-01-13
+So-11498,Central,Desk Lamp,34,39.9,0.0,2026-05-07
+So-11499,East,Printer Paper,20,21.0,0.0,2026-06-24
+So-11500,Central,Monitor Stand,20,59.0,59.0,2026-09-26
