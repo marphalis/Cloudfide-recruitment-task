@@ -1,26 +1,28 @@
 import pandas as pd
+import re
 
-def add_virtual_column(df: pandas.DataFrame, role: str, new_column: str) -> pandas.DataFrame:
-
-    is_new = new_column not in df.columns
+def add_virtual_column(df: pd.DataFrame, role: str, new_column: str) -> pd.DataFrame:
 
     right_chars = all(c.isalpha() or c == "_" for c in new_column)
 
-    tokens = role.split()
+    tokens = re.findall(r'[a-zA-Z_]+|[0-9]*\.?[0-9]+|[+*-]', role)
 
-    right_role = bool(tokens)
+    right_role = bool(tokens) and "".join(tokens) == re.sub(r"\s+", "", role)
 
     for token in tokens:
-        right_role = (right_role and
-                      (token in df.columns
-                       or token in ["*", "+", "-"]
-                       or (token.replace(".", "", 1).isnumeric()) and token != "."))
+        right_role = (right_role and (
+                (token in df.columns and token.islower())
+                or token in ["*", "+", "-"]
+                or (token.replace(".", "", 1).isnumeric() and token != ".")
+                or token.replace("-", "", 1).isnumeric()
+                )
+            )
 
-    if  is_new and right_chars and right_role:
+    if  right_chars and right_role:
         try:
             df[new_column] = df.eval(role)
         except:
-            return pandas.DataFrame([])
+            return pd.DataFrame([])
         return df
     else:
-        return pandas.DataFrame([])
+        return pd.DataFrame([])
